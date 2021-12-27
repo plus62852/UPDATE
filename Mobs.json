@@ -1,0 +1,489 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin1.png",
+      "view_skin":"file:///android_asset/1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin2.png",
+      "view_skin":"file:///android_asset/2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin3.png",
+      "view_skin":"file:///android_asset/3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin4.png",
+      "view_skin":"file:///android_asset/4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin5.png",
+      "view_skin":"file:///android_asset/5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin6.png",
+      "view_skin":"file:///android_asset/6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin7.png",
+      "view_skin":"file:///android_asset/7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin8.png",
+      "view_skin":"file:///android_asset/8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin9.png",
+      "view_skin":"file:///android_asset/9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin10.png",
+      "view_skin":"file:///android_asset/10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin11.png",
+      "view_skin":"file:///android_asset/11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin12.png",
+      "view_skin":"file:///android_asset/12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin13.png",
+      "view_skin":"file:///android_asset/13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin14.png",
+      "view_skin":"file:///android_asset/14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin15.png",
+      "view_skin":"file:///android_asset/15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin16.png",
+      "view_skin":"file:///android_asset/16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin17.png",
+      "view_skin":"file:///android_asset/17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin18.png",
+      "view_skin":"file:///android_asset/18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin19.png",
+      "view_skin":"file:///android_asset/19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin20.png",
+      "view_skin":"file:///android_asset/20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin21.png",
+      "view_skin":"file:///android_asset/21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin22.png",
+      "view_skin":"file:///android_asset/22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin23.png",
+      "view_skin":"file:///android_asset/23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin24.png",
+      "view_skin":"file:///android_asset/24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin25.png",
+      "view_skin":"file:///android_asset/25.png"
+    },
+    {
+      "id":26,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin26.png",
+      "view_skin":"file:///android_asset/26.png"
+    },
+    {
+      "id":27,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin27.png",
+      "view_skin":"file:///android_asset/27.png"
+    },
+    {
+      "id":28,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin28.png",
+      "view_skin":"file:///android_asset/28.png"
+    },
+    {
+      "id":29,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin29.png",
+      "view_skin":"file:///android_asset/29.png"
+    },
+    {
+      "id":30,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin30.png",
+      "view_skin":"file:///android_asset/30.png"
+    },
+    {
+      "id":31,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin31.png",
+      "view_skin":"file:///android_asset/31.png"
+    },
+    {
+      "id":32,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin32.png",
+      "view_skin":"file:///android_asset/32.png"
+    },
+    {
+      "id":33,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin33.png",
+      "view_skin":"file:///android_asset/33.png"
+    },
+    {
+      "id":34,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin34.png",
+      "view_skin":"file:///android_asset/34.png"
+    },
+    {
+      "id":35,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin35.png",
+      "view_skin":"file:///android_asset/35.png"
+    },
+    {
+      "id":36,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin36.png",
+      "view_skin":"file:///android_asset/36.png"
+    },
+    {
+      "id":37,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin37.png",
+      "view_skin":"file:///android_asset/37.png"
+    },
+    {
+      "id":38,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin38.png",
+      "view_skin":"file:///android_asset/38.png"
+    },
+    {
+      "id":39,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin39.png",
+      "view_skin":"file:///android_asset/39.png"
+    },
+    {
+      "id":40,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin40.png",
+      "view_skin":"file:///android_asset/40.png"
+    },
+    {
+      "id":41,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin41.png",
+      "view_skin":"file:///android_asset/41.png"
+    },
+    {
+      "id":42,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin42.png",
+      "view_skin":"file:///android_asset/42.png"
+    },
+    {
+      "id":43,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin43.png",
+      "view_skin":"file:///android_asset/43.png"
+    },
+    {
+      "id":44,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin44.png",
+      "view_skin":"file:///android_asset/44.png"
+    },
+    {
+      "id":45,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin45.png",
+      "view_skin":"file:///android_asset/45.png"
+    },
+    {
+      "id":46,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin46.png",
+      "view_skin":"file:///android_asset/46.png"
+    },
+    {
+      "id":47,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin47.png",
+      "view_skin":"file:///android_asset/47.png"
+    },
+    {
+      "id":48,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin48.png",
+      "view_skin":"file:///android_asset/48.png"
+    },
+    {
+      "id":49,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin49.png",
+      "view_skin":"file:///android_asset/49.png"
+    },
+    {
+      "id":50,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin50.png",
+      "view_skin":"file:///android_asset/50.png"
+    },
+    {
+      "id":51,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin51.png",
+      "view_skin":"file:///android_asset/51.png"
+    },
+    {
+      "id":52,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin52.png",
+      "view_skin":"file:///android_asset/52.png"
+    },
+    {
+      "id":53,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin53.png",
+      "view_skin":"file:///android_asset/53.png"
+    },
+    {
+      "id":54,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin54.png",
+      "view_skin":"file:///android_asset/54.png"
+    },
+    {
+      "id":55,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin55.png",
+      "view_skin":"file:///android_asset/55.png"
+    },
+    {
+      "id":56,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin56.png",
+      "view_skin":"file:///android_asset/56.png"
+    },
+    {
+      "id":57,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin57.png",
+      "view_skin":"file:///android_asset/57.png"
+    },
+    {
+      "id":58,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin58.png",
+      "view_skin":"file:///android_asset/58.png"
+    },
+    {
+      "id":59,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin59.png",
+      "view_skin":"file:///android_asset/59.png"
+    },
+    {
+      "id":60,
+      "name_skin":"mobs skin",
+      "skin_url":"https://godev3.github.io/mobsmod/skin/skin60.png",
+      "view_skin":"file:///android_asset/60.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"mobs ADDON",
+      "add_url":"https://godev3.github.io/mobsmod/addon/addon1.zip",
+      "addB_url":"https://godev3.github.io/mobsmod/addon/addon1(B).mcpack",
+      "addR_url":"https://godev3.github.io/mobsmod/addon/addon1(R).mcpack",
+      "view_add":"file:///android_asset/ad1.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"mobs ADDON",
+      "add_url":"https://godev3.github.io/mobsmod/addon/addon2.zip",
+      "addB_url":"https://godev3.github.io/mobsmod/addon/addon2(B).mcpack",
+      "addR_url":"https://godev3.github.io/mobsmod/addon/addon2(R).mcpack",
+      "view_add":"file:///android_asset/ad2.jpg",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"mobs ADDON",
+      "add_url":"https://godev3.github.io/mobsmod/addon/addon3.zip",
+      "addB_url":"https://godev3.github.io/mobsmod/addon/addon3(B).mcpack",
+      "addR_url":"https://godev3.github.io/mobsmod/addon/addon3(R).mcpack",
+      "view_add":"file:///android_asset/ad3.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"mobs ADDON",
+      "add_url":"https://godev3.github.io/mobsmod/addon/addon4.zip",
+      "addB_url":"https://godev3.github.io/mobsmod/addon/addon4(B).mcpack",
+      "addR_url":"https://godev3.github.io/mobsmod/addon/addon4(R).mcpack",
+      "view_add":"file:///android_asset/ad4.jpg",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"mobs ADDON",
+      "add_url":"https://godev3.github.io/mobsmod/addon/addon5.zip",
+      "addB_url":"https://godev3.github.io/mobsmod/addon/addon5(B).mcpack",
+      "addR_url":"https://godev3.github.io/mobsmod/addon/addon5(R).mcpack",
+      "view_add":"file:///android_asset/ad5.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
