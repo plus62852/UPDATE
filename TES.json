@@ -24,10 +24,12 @@
 
   "More":
   [
+    {
       "id":1,
       "judul":"MORE APP",
       "image":"file:///android_asset/play.png",
       "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
   ],
   "Skin":
   [
