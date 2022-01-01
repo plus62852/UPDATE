@@ -1,0 +1,456 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Goku Ultra",
+      "skin_url":"https://lh3.googleusercontent.com/QPKtIVTwuH14z1NJDarjTrYz6qhb0t2a1ZOHzbpfsM_xYpf69eOSfe0ckYAUlIWvA-GGRn7Cgidv0-2U3kF6yCI",
+      "view_skin":"https://lh3.googleusercontent.com/Q3pFboSzdBbuB8oFCfJ7EeX3F8TRhY1Csp2YmRy_5t0Z3cWZmVtnkIINd6cvbjXCytbXtSc78cn4u2r72BbXuA"
+    },
+    {
+      "id":2,
+      "name_skin":"Goku Dragon Ball",
+      "skin_url":"https://lh3.googleusercontent.com/wBtGKl5gSIWFZBs-iWHkzxFBOyqP9LdD-oFRw8sNPOvz8j5OeJhMLEMrmKuOkhseFo8GO03gOiIVQ-hwt1vf",
+      "view_skin":"https://lh3.googleusercontent.com/AOx2-HlPvKZemF8lLuZ-vx3RtsFWQr7j2q1asEW2ylVapNEZEWq90j4qrgZ--m0xdVN3K9MYh0DSYnu_loNBNmY"
+    },
+    {
+      "id":3,
+      "name_skin":"goku ssj blue",
+      "skin_url":"https://lh3.googleusercontent.com/3Q5v7ISUV5xgLHgxvYpmqTK6Zb4pGZEfLKXtE8wEmHjzbOgkqebpEUIGqOVyT6F_0-j9Lje3zPFGKo9sbWJ3UA",
+      "view_skin":"https://lh3.googleusercontent.com/rtN2aonOKGujKie7JusnEMjSzpFGSbQksyaSmJMd-caBVib83Dkm4aAQFuuIvMFD_UeROuvMi4e_k6co1oQv"
+    },
+    {
+      "id":4,
+      "name_skin":"goku",
+      "skin_url":"https://lh3.googleusercontent.com/4U4uL-wIfmbF_zVW51L3xmUUwOtbmIQAMa_h2Jrj4NkryNluYLxj6HtLUXtbKGDaV5XxTYrb2on0N-cwcZASaTY",
+      "view_skin":"https://lh3.googleusercontent.com/k7BWAYW76cRzfB4N1LFkpQEq860PHVbFsrbIbFLQABF6jAPTJrgZuL369L1wrJNIRgzABijNZ9h7DCxzit-F"
+    },
+    {
+      "id":5,
+      "name_skin":"Goku New Form",
+      "skin_url":"https://lh3.googleusercontent.com/BiEk-R0sI3Oc7FGu6bV0AX9gQTYz7tBJGIt7PPFaFKWtBVGHAeK_VrL4FftXCTU9ZHjIcZ8D_5GWnv_lA8g8",
+      "view_skin":"https://lh3.googleusercontent.com/e4CdgeVI5WaXcz3POBsbsqOL2fusqBs0Y_BQgYDCbwN-rd0dvnlp_55hDtc_bJeeU_tG2pW-jnMTp8leIsYE"
+    },
+    {
+      "id":6,
+      "name_skin":"Super Broly",
+      "skin_url":"https://lh3.googleusercontent.com/8DfFxgzgGbJDZFr4Nu3unMCugA_3rlX1UefQoA1AE7j9bgOGXez7-yCTLR_0fn-rdcECUf3subi6nu-vmxk7gA",
+      "view_skin":"https://lh3.googleusercontent.com/d795GPM5dha-ZzbTZGyZc4xFjg-lFcemiQiAu0oYGtsFA4GapDECa8toB3IpBvZ7L2douAy9Wi_807MSgJEKMQ"
+    },
+    {
+      "id":7,
+      "name_skin":"Goku 2",
+      "skin_url":"https://lh3.googleusercontent.com/WNJkQ4MWjhrd584xQogBFseTNK1buZMdoVfUxcyzNePqn-qX_FAUIA9STRuYbBzARQ-OcDBZvPQGeyKhNUzM",
+      "view_skin":"https://lh3.googleusercontent.com/yIZykty3huspbJ9hPfOAIuPnIjVehuM7HzogNQu9d-5lNv5PN1TkJWwWj98PqH4WOc2c0rCrCMqj3jdCgQNA"
+    },
+    {
+      "id":8,
+      "name_skin":"goku instinto superior",
+      "skin_url":"https://lh3.googleusercontent.com/jt6HMzumevWufZV3HNJ1TjoaJucc802dZ501teE1nt3Eor5DpH-5qCj2mrmbCOAmI9PArw42i375AuHLcoaba8o",
+      "view_skin":"https://lh3.googleusercontent.com/gNMwvEpylx5u4J8yQNNr6H8Ox5MXla4SnyFyM1FMoIfca1yT5_PachjZkvdz6GR8e6cXM0BlYUnvRRAVhtzS2Q"
+    },
+    {
+      "id":9,
+      "name_skin":"goku ssj 4",
+      "skin_url":"https://lh3.googleusercontent.com/rQj6VMsCAMQzd-jil8gK00uPwQ1K7AtUc3kRmL2c80Hu9xPOb_BwXUT6mqdmVLwKGd9iBjvaX3eqFgpr9GXY",
+      "view_skin":"https://lh3.googleusercontent.com/nwiYwujKvPLJdW2qor7QsPMIwCm18HHZJvKaVooRLPtsv7CLY-x_37U89vlHC0mccb0TOC-TU7ecIGVruUuA"
+    },
+    {
+      "id":10,
+      "name_skin":"goku",
+      "skin_url":"https://lh3.googleusercontent.com/HV5zo0xm1fR42aSJJCuawbdocWDAHiRICJd2liZaSGopyJgkj32fS1gl_a9-VvKhkQz4dFXwsaMWbIpAjBehiE0",
+      "view_skin":"https://lh3.googleusercontent.com/3migXEJsgmv41TO83l1-eld9xZjI6HztWuppcKUkRBo6Ej78sn8UmzWYTK1UuAGz1y7PNiVCe5Zo6DYzD1L7dWY"
+    },
+    {
+      "id":11,
+      "name_skin":"Goku Omni",
+      "skin_url":"https://lh3.googleusercontent.com/bzrjnkL-ykFvJfvgbEehfAsafK8cwpOLmliUqMKCE0y1rT6DN0AmtNloHy5oIBSJzGQdIcPW_UWXkdYsWl4uWA",
+      "view_skin":"https://lh3.googleusercontent.com/a8DWFbw379y1sK22WcqfakYV3_4UZfzu_dZaQoZ5IJs6F15qfdbXoIgLY8wvLgKdHMSmWx0p-gmpjU2Edbcm"
+    },
+    {
+      "id":12,
+      "name_skin":"goku super",
+      "skin_url":"https://lh3.googleusercontent.com/z2mBM0Tnw1k_xW_JLUicwm8_zxvmUn_doh1kk_D5aT4tiv4l4UPKi2K7bn1NGawikzcvY4zFcoUFqoqVHy_tZw",
+      "view_skin":"https://lh3.googleusercontent.com/C_PyX4C4-pExXoFlsX11_h2UyM2mBGJ5fSAoHGia76LLdLbrPXLCpiiaOnLuEJ2YxzY00ALk406k7joHsoiU4w"
+    },
+    {
+      "id":13,
+      "name_skin":"Goku Dragon Ball",
+      "skin_url":"https://lh3.googleusercontent.com/cg9e2TjyiHrhj3Gw2g46SrNCf2254RyArGsNJ_wKoavn0NWkA0b5JgzQGhqX5LJPDVTdor8LoDLmpUy2Zw77-A",
+      "view_skin":"https://lh3.googleusercontent.com/VAGiLmiuJ8fzYpqTWoyVYA6wcit55k2IeN2yXh1YAkRgBIwlYDF_3MO0YTrfPaIkpx4_qAjO5dA2d6921Jgmbes"
+    },
+    {
+      "id":14,
+      "name_skin":"Goku Sab Jacket",
+      "skin_url":"https://lh3.googleusercontent.com/5ZII4MThKaTHCnNECJ8o2EwA64nWR1xmFXkAwDBGIMySY-qsZ2TDA-6JBAJZEfbQKe8PJ8e_Kbl0YoT0g_0HzPw",
+      "view_skin":"https://lh3.googleusercontent.com/ymugT32KXXSaowxjriCM1VgqM5mjZM_2L46HQW75rBJ8HHqJonO_D9cS7alJMaRm8Xk2oFoFb9qKUsSTFjssnNY"
+    },
+    {
+      "id":15,
+      "name_skin":"goku ssj blue",
+      "skin_url":"https://lh3.googleusercontent.com/GEcozmTCJC7fw8WB8jZXuSVJOMUAaz8hYwB3llf0xAqMr7KOMz6TXrewonXtAxa5DfSnPUM2I69uOcumefrM",
+      "view_skin":"https://lh3.googleusercontent.com/PgTROfVnw6bbtrC-iMCH4Mk5zkCQ_Td0cZiwv6K_amUF3VXzPew3ZgaRAvLTy8yKW1iEsRW-a7vOjH-tUZj6"
+    },
+    {
+      "id":16,
+      "name_skin":"Goku ultra",
+      "skin_url":"https://lh3.googleusercontent.com/h4sqV9LNx0Ncrlye3IC3LSgHu7h_dVftZx2nfnUChv6lJ0oUhxfKOlyYvi7szgeCHF9BuNcNMTcJu_IAtsD760M",
+      "view_skin":"https://lh3.googleusercontent.com/4OzJzVnyFjcSBfDTX_Yv0F4xXxyyzuSfyDgmX3ifNNMUTENKfeCQRtroyvsyTAtwJ0WDFmf6M1cx8smmkS7sKg"
+    },
+    {
+      "id":17,
+      "name_skin":"Black Goku",
+      "skin_url":"https://lh3.googleusercontent.com/zOle0ChIKa3X5-MD2c2X0S9UdkLgpO4Yfzl1YSkPEbmqf4Ud-ewC8j5y0P00L0WYxKlJixwyaSleoaEC_SrQ",
+      "view_skin":"https://lh3.googleusercontent.com/vAXfDm_32JQvEQQJF5P7KSfWi9hYVWQuAcXdP6kdBr-5ywRyNobMIkWKqrMlo8hO34WX_YEaa-fehT_5J-L2aw"
+    },
+    {
+      "id":18,
+      "name_skin":"goku ssj",
+      "skin_url":"https://lh3.googleusercontent.com/XW3l8t_7Y2HQK7pbqPJr9Mdisr-mJ5yW8iQKZVTDst4TiG8vcHLZDq2ZPNOYGuQ86bRQtos2SEkpHeH__qU1",
+      "view_skin":"https://lh3.googleusercontent.com/f9uY5NN3ND34LqJ1UsxcG_5A3CnYAAmfD8hIOpERab7sxbGl_7yCUWzrXCmltWiW73RAl4S7UwcoRMrwhQtPENM"
+    },
+    {
+      "id":19,
+      "name_skin":"goku omni god",
+      "skin_url":"https://lh3.googleusercontent.com/lCdksgrMa4rbhSy7uSkB4yMvQjyQOS6_DWhdu3nZoXul5IjjVfFi94htQf3AhrgV9e9wAKK4cjvVPkbFKiOoog",
+      "view_skin":"https://lh3.googleusercontent.com/YhcgVMYPH51am7cIwnrf6nwR43iWoZKtCfbA4R9bl3yHCy_fePnpV12Kaf4Vroh3Oqyt14iZaL1CCYBhs3MA"
+    },
+    {
+      "id":20,
+      "name_skin":"Black Goku ssj rose",
+      "skin_url":"https://lh3.googleusercontent.com/ne0zccMz2ZsWYZrDbQca3-ZBdeglgTvWKQQFnohv0GHPO_wvoi75_D4KbnrkpBrXQWZEVedHMZpVYsbVF2No2A",
+      "view_skin":"https://lh3.googleusercontent.com/IxOx1WlGoL5x_PLDRJPXKs2yugRG_MG5iV__bB1Et9irgwyx6y6UjpaA-B1eAOYiGBUHEdOzxVtWO745I8SUQg"
+    },
+    {
+      "id":21,
+      "name_skin":"goku ultra",
+      "skin_url":"https://lh3.googleusercontent.com/vJHImyCqZyZhhTLaif72rO0eRBgKFCc4d3JYir1AX1vZ_n3Xn5TZY53Dx1pjnaimuCkkRWnlujcGOwXPnVW9hg",
+      "view_skin":"https://lh3.googleusercontent.com/6eTf_lkmFgoZWq7yGwcQn_RlM6ZbfXXu-O5Lx59_Gzv82ACsqaNlf2--bMe_oCRKBgtBKmei3m6x1coMrEag"
+    },
+    {
+      "id":22,
+      "name_skin":"Goku Instinto Superior",
+      "skin_url":"https://lh3.googleusercontent.com/stPS3XpOx0xt88Csz3QANgTj7osDJHCGs2Z6u73qeyk3apnjPMdTG-Vjcyopeq3017JatckVEqVFS92F8stM",
+      "view_skin":"https://lh3.googleusercontent.com/7h4QWMGg8Q9sQ42n4wuPlNe9wpqMboOlkohEA7zUsOCw_xirWWJfVst2H3TxykLlKkv3BWw0pzYMPD0XBiGCtQ"
+    },
+    {
+      "id":23,
+      "name_skin":"drip goku",
+      "skin_url":"https://lh3.googleusercontent.com/jEm-pCKCdMw6FnAUNDOkizj4B6Mm5t1D4Wuf-oTKto4i10IwEJgcq2Ul_DcnIElpcDeqXFJqZlR2zMSFKn7Qkod9sHOSk3cnD7B0",
+      "view_skin":"https://lh3.googleusercontent.com/eIWEV8quA748rwLgbSTkN5wH_XeZKPwr60QY1dOxu4B81hemGMGIHhAMF8TARHuVgBipNpqrKDU_eHzci23Jk6mG0OI3u3vp5xQ"
+    },
+    {
+      "id":24,
+      "name_skin":"goku",
+      "skin_url":"https://lh3.googleusercontent.com/ewQKSbY8I677sFV5K64nSDpRxIWE0RNDqLKAdMtNjE4KEcf2xIBn15i2T7wrasc3ufSj3IgdaiYsHPJtnSD8_w",
+      "view_skin":"https://lh3.googleusercontent.com/MVWFlGZwWSMr4o4qMGHZ3qpkMwQQ53Ibe6tO_U8w2ipmPWmwX66V8MEzyW4gpFehOfYsIBRb3dDqxd-2ikJV7TgNuB_lHA_L8U4"
+    },
+    {
+      "id":25,
+      "name_skin":"Goku",
+      "skin_url":"https://lh3.googleusercontent.com/X4nnbHhyY0W7oVj4mNsqyzt2RbjX5Hn3_2iFZuKMft4Uhw0ZjHR4cA-WiPlQG9AjCn1OmXqDB-M3tR5YvG6kkg",
+      "view_skin":"https://lh3.googleusercontent.com/E5yP52lmA_TIZh4oSWe8f5Sf88kHj8g9tdFDdMClY59jnqpk_5xu1AGfJYtXHZ-pCDRRBgfkhZValCNQ6bYJIA"
+    },
+    {
+      "id":26,
+      "name_skin":"goku fortao",
+      "skin_url":"https://lh3.googleusercontent.com/gWm8ZdW66iPD3oOoDvI_RD-2MFnT1tLiJMom0S3QDaK0x46m_rstR3izPbI28UZ3nK5M48WrbAo0fX6IF_mLhTmu0QdHzqnMlYw",
+      "view_skin":"https://lh3.googleusercontent.com/9T-OtKfN-2SpvrHS77Syk9nwQnpYZ1GeFdkLfEUTOQgW2MECv_I-9aqdWSvImhuZvfSMzcrW6zS_cuPANXt0sA1SJOJDglb2n5c"
+    },
+    {
+      "id":27,
+      "name_skin":"goku ssj3",
+      "skin_url":"https://lh3.googleusercontent.com/6eA--I13-aMmYLPORRPdN4cVOPPEzC7UPX98EOgtrkBAIkbAebkJdPJH4JBmiNZbVU8DxmeVc_7sq_0Fzno2Sw",
+      "view_skin":"https://lh3.googleusercontent.com/932syzV9lMwWFdVBCwSIJN_jM5UhHcPgFhJXjwZ_7h3Gc5S5Lau32mf6a9mCxeYCod2Ghq2DCeu8nLgY2GM7jA"
+    },
+    {
+      "id":28,
+      "name_skin":"goku do natal",
+      "skin_url":"https://lh3.googleusercontent.com/sxSRu6nTn7uuR0K5yLMB-3nlT0kFLtbWkAJft-1Z0N27u4OysHTdftLONbui37Te18VMV0hCbdAx5Ed7PTA1NSY",
+      "view_skin":"https://lh3.googleusercontent.com/4G1r8WONWYVuC_wNduto8-aEaFsfeQDQ9FmHfzADdlggmF-SR9OAzOxj6-4LpnWZEuxSgrep5DHx8RhAKrABCw"
+    },
+    {
+      "id":29,
+      "name_skin":"goku black",
+      "skin_url":"https://lh3.googleusercontent.com/fQuOWVzssVwhtOtgGokRueZh_kfjU0ITQrHC5irTbq7tQkhKgee6BeL0IpT689Ig3pAMsHVUXPPx4vKp8V9rZg",
+      "view_skin":"https://lh3.googleusercontent.com/C-IAnW8Z39iuW4R7CWixnqwL31qIpYMJZzT4TE-TsmrydAEaPWlBWvR0KDQzv8UHt-wKYSKI_hZlYTRIxa5-"
+    },
+    {
+      "id":30,
+      "name_skin":"goku dk",
+      "skin_url":"https://lh3.googleusercontent.com/tJSMuOqkbpoY0XA9E0tZZiaA-UDBJ5pjbjwjLOF67T5cH7jFmFO29Tf0aRldNyIpgC9y4Jgm5K0YxBlzPPr6dxA",
+      "view_skin":"https://lh3.googleusercontent.com/iCs4uD8cZT2t6aaNWNRRSIhs3fnANhW2itDM14Phl9R91qS3zMYu7Zhm7v2YQEwJ6Vs-D6bA-3_CHNToqrLTqaQ"
+    },
+    {
+      "id":31,
+      "name_skin":"el mejor goku",
+      "skin_url":"https://lh3.googleusercontent.com/rab04oQUGWLOKPaUSZHmmmNWg2zrffz5MHz2fdk-VQ79igNtOcnxGlnAj9TDPMW-ULf8EmobMil1axPYkcEYyw",
+      "view_skin":"https://lh3.googleusercontent.com/WsfPmowqBrr-JsDpJMCKq1iGt_l5Mqdxyd_q4p1X6ylhm6oE9XfKbbbMc1xkTpzPN2gz3jxWmPp_gAUj_cPetg"
+    },
+    {
+      "id":32,
+      "name_skin":"goku",
+      "skin_url":"https://lh3.googleusercontent.com/OpF9vIfyj0jjzHA8zUijLWA_5w6mZur-q_dBk9w9pw0wxyZ7MXR4LTc7nGJRq_5_cTJV5lKrJ2Qr4FdRek-j",
+      "view_skin":"https://lh3.googleusercontent.com/gxUwd3zOzlQukjk1Bes6BqtAVa337zLabLK0yqfseh-7RxwFD_BXb5y6A-7MibVMGeVEX3d2Ovg7j3DyjxdV"
+    },
+    {
+      "id":33,
+      "name_skin":"Xeno Goku",
+      "skin_url":"https://lh3.googleusercontent.com/VMzZ5TrFi5l4nXgBEdBno6JXA3hwJUy--KjpCH1GXcSzKpx_N99MJw1XvRq6qxc-SgRqdr_PB3sUzxQUTCwU",
+      "view_skin":"https://lh3.googleusercontent.com/VG5Hbg6yy9eMs-ugD8DIyuXNh1zm8ALZZGBnjRUccafLnCT2mazo7ekg_isL6sEhlcfyOr7-9nulhP3kbBLHgA"
+    },
+    {
+      "id":34,
+      "name_skin":"goku",
+      "skin_url":"https://lh3.googleusercontent.com/zvZX4CAH9ls8-BtyhRHTdQiay0KhJXHOmLdFtObbTGfa5YkGLUDVhDIeyrj7U1ozX9OrAvyO1j3UItKEw12_1A",
+      "view_skin":"https://lh3.googleusercontent.com/3mt1IHhe47piRMgM7iiJvThjmavbNH-bA-mMiNW29PwNk4kWgV9KLYMYg0ccdrnmW43-S7kpfny78IrZJOaJ"
+    },
+    {
+      "id":35,
+      "name_skin":"Kid Goku",
+      "skin_url":"https://lh3.googleusercontent.com/0WjrjY6sDvZob-T22rWI3X--MPA4qwsevxfS5iF6hg6ESbdZegEHv1WyzUN065DOYLho1DmtUtZhLwax5siN",
+      "view_skin":"https://lh3.googleusercontent.com/zUkAKx_sJ5ATdKOHq3-4OB1a6RsHdwm-JoHVks0VwdyctmWeFwz8m0socmA8A6MBgSOiTv_ouXOzTEuehpBVBMg"
+    },
+    {
+      "id":36,
+      "name_skin":"skin goku",
+      "skin_url":"https://lh3.googleusercontent.com/DCE80nyDRTgCbU8Bh5CZ3rRCsPy_ICAsaNqq6g3xzt4IkqaY98_IV2kp17pNnQ-wgxOba7_0N0gc9wHUJVZmPg",
+      "view_skin":"https://lh3.googleusercontent.com/jqR8tk8x-VOx94vPSlNRinLtRXVOds8TAabub5tTa2H6xBhuwH8zivVGl0wyIB3m_u_eGiuadQHNjv-J7qOGjQ"
+    },
+    {
+      "id":37,
+      "name_skin":"Goku Pelado",
+      "skin_url":"https://lh3.googleusercontent.com/etQkHu_umccq8WPNILfvpiO832P45l12bbvQKj5QrtNx-aPaxAeJxkYLDyquV8kMWE5U7wchMpL4EW7Y9AiDdQ",
+      "view_skin":"https://lh3.googleusercontent.com/hk2kfG0yELx9yGEd2jEeO9XpxqP08eAfGjJLEaBlwFkhveOBwpOhVFwDi-T7ee-_RQJEBbbAmhdEyelPzsO6wQ"
+    },
+    {
+      "id":38,
+      "name_skin":"Goku Super Saiyan",
+      "skin_url":"https://lh3.googleusercontent.com/l550YjncG23OwAJye2cIglUJqsXI-t5d-IxAhMhjCXhcDNBq_nmaCjVKp_uk91zZ1OynX3fs1ef4RnT1TDVgeA",
+      "view_skin":"https://lh3.googleusercontent.com/fESl8aWPBSWMHoVVy5EYwm1l8j7UD--qX_7LgIaEuOFFpzhbY6z31gi32dxQREHoMfSVC2MHMkVVueeSoVkYkXA"
+    },
+    {
+      "id":39,
+      "name_skin":"Goku",
+      "skin_url":"https://lh3.googleusercontent.com/Qn4c_Zh_K_I_QVfDR-Gipahf4xX32T2NvX4WEMbGS8xnqC6FZHHIDCeOXKWwj03bgwM7wn7UZTa3FJdl6yfi",
+      "view_skin":"https://lh3.googleusercontent.com/O8GIeu4QrUd6oPMI8UA2e1vl2R5WPPivw7utd8hCtomw8PKmJLa45_CprYxh76Z2BkGJtUplbrRlwIoryNnUy3U"
+    },
+    {
+      "id":40,
+      "name_skin":"son goku",
+      "skin_url":"https://lh3.googleusercontent.com/CyRkJ6o6fmvfJk5tPvQgV5-2NOcjkOf1qV-5pBcAWFFQ05JCGauVBDGMve-d9k71q7rDRbsF_zLvuHEhHMdj_pptjwsjXorN1w",
+      "view_skin":"https://lh3.googleusercontent.com/l_bqOaWoT223OnzW2UUDg8LTxILV9pyr-9Y-HGLyS8VA7BqxYJIjVvB6fN73HUtu9xTr4Y-5vBky6qztjUid2wu6JGYEvK79PiY"
+    },
+    {
+      "id":41,
+      "name_skin":"Goku Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/hZMd4vTRyUNZ7cSm9T-vxxcjJLVt1JqeZycwuq5Sq_Cnzykyxhw59bMoHltk4S1qe86gyM2fNM_5zjLDukvb",
+      "view_skin":"https://lh3.googleusercontent.com/WhZ4z6P9bhI5F0D1Sj6gDFL6NTntbJoVnZEBuplmeZbSDset7vSZpj0m3mTgE9A7yEmKJb7IO2NxoEFTRz_hO9M"
+    },
+    {
+      "id":42,
+      "name_skin":"goku black",
+      "skin_url":"https://lh3.googleusercontent.com/wQ_IX61IISnV82T2ZesJc02agDijFo6-fgSGs34g10S2xS5Zv9fMW74X2KA7TJXxbY9_XQZsTrmweX9belLkBg",
+      "view_skin":"https://lh3.googleusercontent.com/CpogYCDFUiLi5N4mu1bpsXBQRoLhtYMBKEzfoiUpvNsccH1dHmxWi7zxe-H2kRTE-8kdRfd58lpw_qsAfzrMiys"
+    },
+    {
+      "id":43,
+      "name_skin":"goku otaku",
+      "skin_url":"https://lh3.googleusercontent.com/bRAufBUTaFWJKuo35kbkQ89jpldZDH9paFVFXRxR9Ni5-3021DcqUE799Ce2NZ_lYL_VfYw0moHP9-QGRp3OQQ",
+      "view_skin":"https://lh3.googleusercontent.com/qGG_oTcrXpMW_S8ebJLRqgCBTDkelztNZ5henZE76rPh3MvrHwTSeR7y5wfroq9SkkJRSreyd_13VCJgSX-C"
+    },
+    {
+      "id":44,
+      "name_skin":"pato",
+      "skin_url":"https://lh3.googleusercontent.com/i2AF9nQXrNzm9NpbwBgGQf3l6LVGFZ-uUD2IGcwZAJ68l5TtfR6Q9H66d775irU30IvERSuDh8gJPTwhRnwg3Q",
+      "view_skin":"https://lh3.googleusercontent.com/WcYvYuFUg1NyJYtDHz-xJb7gIuopiV96rIICeNP-uUd42shsMcb6clhVO00HLvSbrPbp8QM1xmi_Fr1tvWY6TA"
+    },
+    {
+      "id":45,
+      "name_skin":"Saga Super",
+      "skin_url":"https://lh3.googleusercontent.com/JUB1gQg2zIk520-tKsrLDTxg_KdzO1nBXCB9oxDBYe_3JfuL_U4noenwcrQkYCSB5QCiEioOtEnnpfwYYFwGGA",
+      "view_skin":"https://lh3.googleusercontent.com/zyOml2aXliY94TzrXFFelT-xFxpdtpvD3Pcdzf_D0WZBwCFWoLNx4U4eT4LTDwYU4ASpV6aziRgQouSJrDSbsio"
+    },
+    {
+      "id":46,
+      "name_skin":"Goku",
+      "skin_url":"https://lh3.googleusercontent.com/ZopWEL61Id1U4Isiy6uQNs46dpROcoHZ4byEq8q9E-BN8mnFHUcnNhctuKHz3Q4bCbzlfCWXJ4Tb4jTUGySX4w",
+      "view_skin":"https://lh3.googleusercontent.com/mWAsRRkFqKlB1BWtHUvN7dMIMVgKT5duSzCy8oVfPKllWRAXkzSyvEm5ioQnZhdENxri6xXP6-nXrXhLeOxYJQ"
+    },
+    {
+      "id":47,
+      "name_skin":"GOKU PAPA",
+      "skin_url":"https://lh3.googleusercontent.com/Hezxp4tMQ2_asoFKvwunoFu8IzCXu1WDx3XwMblNX6x7d-3jniIB4eQaPz8VFfJPEJlZMJuaHpPOq3PM8SGX",
+      "view_skin":"https://lh3.googleusercontent.com/LPPlSda6BhA9-tvyczF1e_CRtsSow6fmV626zak13vqkTKmmhb9a__Lejtj0G86KO3FmjP5KtVTTVuQGLacKGQ"
+    },
+    {
+      "id":48,
+      "name_skin":"GOKU MUJER",
+      "skin_url":"https://lh3.googleusercontent.com/Xc4bik64IWq0AW9cvSedkrPNaYqqeOcQjdTN1d36D7ZST2IchK_3eh6XSiQnTObtQNN0X_cfN8gkKUSZ-MgJ",
+      "view_skin":"https://lh3.googleusercontent.com/EXeJfeRYIRKB9fX8_eqtifnrqYzVJte6qZCuJOhMVU6UgsT8myg_le8T0DjdMQBb_jrDT5ghgWKSk5wCUIIK"
+    },
+    {
+      "id":49,
+      "name_skin":"GOKU",
+      "skin_url":"https://lh3.googleusercontent.com/talVWZdUBlkb6yBvA1PsO7zKSezsFWGu6rNtNuCC9wkmd4Rff57ZfzOtXCd5GcaAwY0cGtT6_0wQJGtDmuUpJTwXevPDyk_05e4",
+      "view_skin":"https://lh3.googleusercontent.com/4yG4TfZlmGqjZqPJGL1-x1vg1CxsZj7h_7NT6EWM9AtbnPz8Fz9RS84jXOHZrL9SG6yDf-RHhduTdDDOHFDRsqVMcmc_vnR0sqw"
+    },
+    {
+      "id":50,
+      "name_skin":"GOKU STAB",
+      "skin_url":"https://lh3.googleusercontent.com/m75EtF78vmbMJ4NW17_SK8cNA_MbD9nzpfG5IWFLkE3-gFxrkHUfkluEMqvBLkqlzV-th4H0_8q2KggcbQX63XSG9NTAP5xJTHw",
+      "view_skin":"https://lh3.googleusercontent.com/NwHq42VCO6rwLHS8drmedawiS6mRXbrwDFztMfjA-3zciPD2GyAjHI5eTybbF9WGJ3uA93Hlg3XX-0Pv_iOsuWeRlvQUtO589sU"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Laser Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Number Blocks",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"The Imposter",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"Furniture",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":6,
+      "name_add":"Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":8,
+      "name_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
