@@ -1,0 +1,457 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/3ZCKW7EmVEO3xyly9TXbqiL-ab1TKYoDsAHcdYFquiplXrYd5yzxn5zORjF6N3WPrKLvfJ0XRBeGmSc4jp_R",
+      "view_skin":"https://lh3.googleusercontent.com/k_GzWdLB-S0exUtxU7cmz1obQUorzloHUjIpc8T8gNKTR9J7MsM-V1RMmSoIKQsM8L_4ijvzrpTvvbc6QATjJ0M"
+    },
+    {
+      "id":2,
+      "name_skin":"badboyhalo duck",
+      "skin_url":"https://lh3.googleusercontent.com/HGaTV3C4eerd0vox5bJSAFq_p37i6tEnbA27dJ3wiJfNAu_XOK5VdC6mvST6fMc0si5zCOW8wBZqU4HuO8u-tg",
+      "view_skin":"https://lh3.googleusercontent.com/3nbB2clgn2MreNc3XR4DplUciJ3nNO7-KRFVYfMtbhRfxaIH_8WijavpHHFoM3NJBijReeHMSQ3zEpUBoDxa6g"
+    },
+    {
+      "id":3,
+      "name_skin":"BadBoyHalo HD",
+      "skin_url":"https://lh3.googleusercontent.com/vKKHMBmxFXC1CnnbtE_cVilCaO-2xwRzNkEgOvDOtO_II9ddKfL01VP_gz0SFccmVw4T2hmsDYsxDL02Spm7JQ",
+      "view_skin":"https://lh3.googleusercontent.com/fMvKUJ_S1wCQeRKQQJ6-vNxGY1b3AZBA3MO6n6IYo-ClNolzyzD-8OUonVR7T__z9CtJjjmPj8TqrBjKY7HB8w"
+    },
+    {
+      "id":4,
+      "name_skin":"raibow badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/27vhgOZI3PwgjCcLsasQ1lpbBNe718sCgxNUuDaz_c9_7g_0gefX7KjDqDP16pck5D41fV4acT7pobUk5k6J",
+      "view_skin":"https://lh3.googleusercontent.com/dAa92h8KUHBDW4QnzfnvRH6s7yLPMnvxoLLw3Ep1qzJ-DPef7u7lqKZHT9x5Ae3Kl9t1HUQgtTwFVlh3py77zQ"
+    },
+    {
+      "id":5,
+      "name_skin":"Badboyhalo corrupt",
+      "skin_url":"https://lh3.googleusercontent.com/17eWrJmI8n3UQtZ5vNDrnUzR2zXfpoHKLwi5sUdXVJHgRvgOHid5NTsKL_-liMPYBnCp6NzFxWtiHclub-8Cw5-mR3-tVaqI6w",
+      "view_skin":"https://lh3.googleusercontent.com/YXNUFE7yGkbKhbR5QTdZwTaRmErZZYHB6YD5GOPk1JWyK0Nisy8V3tKFybYTGyP9nZW1upqma7E3YgqM7jKROZMkurC4-O6_Mw"
+    },
+    {
+      "id":6,
+      "name_skin":"Adorable BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/8xsduj-QOU1FEOXzm1OhSHidTJxF7lc8UIzODj1x5_nSMjvWolouuhTt1MbL-I1IonvgvNCdkRpvmZVaK3hT2Gg",
+      "view_skin":"https://lh3.googleusercontent.com/CiHuAar-qTKGq0xIkcn1915sk20VOT2XP6ybtpzCjev7FrGHMC_0xQGw4FJ0Tb6WODS2n9lCJDgvAaAQlVEO"
+    },
+    {
+      "id":7,
+      "name_skin":"Badboyhalo Girl",
+      "skin_url":"https://lh3.googleusercontent.com/fCFZmIuFVjdM61HBBMDFESWylFZoP59IFty4uekZkiPISyX_pmkUjItp-q9vijBs-b0KH8xXC8HObnQrSUWMMl8pUdJi8lcgAlo",
+      "view_skin":"https://lh3.googleusercontent.com/kTb5LkyrkwUtAyuK40KZG3rUj96cWrwdOSGCLWpS3iYd6qisg_KxTBPnCMnOd12-vUeJRvivxl6H7FxfjmvVgoHAPHLl8UJ0rw"
+    },
+    {
+      "id":8,
+      "name_skin":"White badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/v5T8qwHgXLZD3CTSVQNhaEMK4IO3UB-xhx6_ZFkpE1T50w-Q-a71N3e2v76mjfNju8ZtJtoH-JMQ1EqTHsIbhidO2AGZjRnslSQ",
+      "view_skin":"https://lh3.googleusercontent.com/4w_K0AZ_ZvzonhSE6Ig_cv_t-B3jFlWc_9LfiZW1IaonnZm1-NW9OPQBUCbdcqeSdPrUjQW8RYsABe5uaF0pRLPIo2YgVRSVcT8E"
+    },
+    {
+      "id":9,
+      "name_skin":"Green Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/t0wUdCQ0Z8BqhybWS3Zvx_kQPmO3xuJq1xPi08vmIaBCJcMljF0VYbozOVMdoiVkpBuEM1SZyfW42ELazV6V",
+      "view_skin":"https://lh3.googleusercontent.com/-jumciU70678Ao2cVeUhm0CaBuBZ4b4v5qN2e-bDpmJKTjYeb7-aWnObThrpKsZaWfXymtGAKDdOhD6j_ngh"
+    },
+    {
+      "id":10,
+      "name_skin":"blue badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/DBPzGnU3FU8SLK9Iwh7M1eZgHg48_9flDdLszTfbOIG_ALBbTN8ckjw-5fUVufqfqRTD9vbNAU0LkS2QMgow3K8",
+      "view_skin":"https://lh3.googleusercontent.com/jm0L2wI54EzR1p1Or26tWM_si88KVJXYkV-5khKNLgLvOaa_ZU0q2MW4nW2DmlvOHas5I6Au1kMc1XYKhrrgWR0"
+    },
+    {
+      "id":11,
+      "name_skin":"BadboyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/QltW5Y7k3Wpuo7SH7HYvkNhl3fdpvUl9chAVlrJvfIl_BOesd6q58n3BCojsNnOqohN1vMVq-2Jd2tbO2k1Ivg",
+      "view_skin":"https://lh3.googleusercontent.com/LG_qrqs6hCkQoUqeDtrOpGmHUjwP09xL6GqcJcgv7gbfryUK6xKq7C7GBaftaM7j4_ROHOWapuvCOo3B65yXWQ"
+    },
+    {
+      "id":12,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/8EQBXfn9oi43o2HGjKb_-Fr9kEurS9IdBhBjmckz7ZhJ-FLr5YsE4TQg6WcoKPq0DvoYnsGgG7NLcb3qU3d5_KC_fCp1oYq01w",
+      "view_skin":"https://lh3.googleusercontent.com/0wtiB3JtOaCVT4XlHIvA6sCnEQf1AYLfnjAoAXxhTBu3yt4yvivBORSKtbbZqgkOIL0G6D9OhC6hR7KwNAIStxcpHmbbXxc5sqM"
+    },
+    {
+      "id":13,
+      "name_skin":"badboyhalo girl",
+      "skin_url":"https://lh3.googleusercontent.com/dEAkamj1s03UBZrqxaLMdqhMD85ihRA5BxTpbACe6gcq5-s52ntAEE6lzM31b20E7WltZJYZmI0Y1_wKAz0NDrpTOISFsXrx-a5w",
+      "view_skin":"https://lh3.googleusercontent.com/xodpjsE-KusGKBQrSYUu-Q3DAzs2twYTqBDjfE1VTuqLK6AzNZ-qYIy22BPIVjNjJ7PsGtFADYIXfaQdNjUQrkWfwO4011VA4g"
+    },
+    {
+      "id":14,
+      "name_skin":"Police Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/NHpxCjvIG0ZyWFmEsuwGBaMT23t4osxNKRd5J4KecBu2kLI4jrZH3P_hQ1SnNZY4Kp3HiWNiBSEnTfF_xbbGZsrvefOypEKuSN9J",
+      "view_skin":"https://lh3.googleusercontent.com/uTwDBlIs7aNqkVNGL33a8EbZIVJ9Uu9Bv-FoBDTPQSoOn27UM0RTDSFJVybRFfo5SCQ1g8rQvwxFBX8aZkkSc-Ul0VMshclpbAE"
+    },
+    {
+      "id":15,
+      "name_skin":"BadBoyHalo version",
+      "skin_url":"https://lh3.googleusercontent.com/9_EuDFKXfOllVuMoTgALnVW_BCFwHG9pEAVgbVLE96ltc6JiQMlIRGC4w5HJ4z-9LMFmVArb2dARZB-0i_hvRy4_DU9KzUShFazN",
+      "view_skin":"https://lh3.googleusercontent.com/GE1sNj8HMJOxSMcknXhega1acM4mD-xQjjrb21-iK5_fp29BHKAIExoa3SQgCNDRPYEGrv-IFJJI3CAIA4fuQPbdDU4lcImnCQ"
+    },
+    {
+      "id":16,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/V0ia4hKArN9Bb51jZc-SX65_BQNoaVgo53Ztcd6yZ702JbE1eJpRqlbDSl3TGdn8BueGXHntC-AL8qCNmPFwV12nU4IQmSEefPqG",
+      "view_skin":"https://lh3.googleusercontent.com/s6I6SecdYJUjBSDWDdBkpAw7xA-cEuqC1SjmuQhvRKkP5jzoMgHZeCNVlmlKuIGR0afXXSGSKci9xJ0O89i4hS6lfgC4EOEI5_s"
+    },
+    {
+      "id":17,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/6XmGLF7Q6GiWSkACsXAqlC1-1JDRCOcD4eU6DOa_cOUhuwtP0vnyEOEsc67_xrSkJcUrTCPtuvr9jUXGSf8IFrqTXwB8dBr49Q",
+      "view_skin":"https://lh3.googleusercontent.com/nAlrrvgSBTb2lfR0Fl-fsEB99gQ7sAUYcrvdsJEIJM-LtN79duLf6HtTUzyx9gF3eMi33qYiiBRqcky9J4cYmndo3woG8gm0Qg"
+    },
+    {
+      "id":18,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/ud2rCzSG8pRueKZt6IfyPlXFFaEHeIn1G7qytbSKaOWL-LcxEediPr8F7oQjkAQVGssNswJ5mKVqHOdlDDVeLUpr77QBCuBdirk",
+      "view_skin":"https://lh3.googleusercontent.com/eRKvRLbrWuI5rhLaOFVTgM8yqlH58WYOkF2uSOqHAMpw3oTJuap6jY9PGPbOFoz1iAULTCqDC3j5f1u2uQ7AwmYm3Ey7g5eq-dM"
+    },
+    {
+      "id":19,
+      "name_skin":"badboyhalo skary",
+      "skin_url":"https://lh3.googleusercontent.com/KLrzImzvMbtx-esxrpCrS_IH--EGwLJWdH7DB31FXpINMu_FV_0iCWqT_yBAC0AJ_VieRo3-b6PKE5rrkB1KmEPCgf_L_0jvtyI",
+      "view_skin":"https://lh3.googleusercontent.com/jiZYQRQ9hTf3DvEcJZqoYurOFur4ov_gD6hzRGgtlgRL9xV4GZUVb2Ky-DjO9Ss0JdA3PDRLipqqEN3EVc5hK_mnlwXjkJXXWds"
+    },
+    {
+      "id":20,
+      "name_skin":"Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/NBzHECoh8clPnNVQkKHEUY5KPFjchjKYqw8eZgRiY7_mcY9H0hs0J3B4npXdKUtpIFN2QZEUrx9L3v2iHM5qGHXtK40kpRwtSms",
+      "view_skin":"https://lh3.googleusercontent.com/zxQ8lqlunfM85M8oI7uFJ0XB2WXW0MVd_h2JLtUQE5ECve-1N_peK-73zgAFEriENC5ir_31q-9PkyFp2ksorwCCWHuWrUvVE_ZC"
+    },
+    {
+      "id":21,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/bX2FdGyMSjiMKKl6uONJa9Ox7evxC5BcXYS-M6YBxrvBY0Px1OBuslmDsRDF-qlND7q8h_lN3EaU1dmgmDLXgUj6nHftXFvVZHVS",
+      "view_skin":"https://lh3.googleusercontent.com/haJBkXPpCRf2YgEqxypeAvaRC-c7Qp0Jk--7tt5dYfAVi1wsnNj9qeh7EC5IyE77W2KPzTuXXcTsBzuFT1W4Zh13DH8yH4ERlQ"
+    },
+    {
+      "id":22,
+      "name_skin":"BadBoyHalo with enderman",
+      "skin_url":"https://lh3.googleusercontent.com/qcGCBaKDIsjnwlxdPEBfHpQGg0911482fgFCfkYvj_Ym7ZTGSsCYQpMGnaA-JamRawlY9J30IrulSTOxz1xSBz3cwQfO7cK5FiY",
+      "view_skin":"https://lh3.googleusercontent.com/4VXI2WA_xOb4VvqCXMUsbV8DwW5mF5NwWDj4W5pA4-kLkorihf2MNudBoam3rXTjAEdUochgWOBeD0XdMnmVZoTQEtn36LGvezE"
+    },
+    {
+      "id":23,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/O8u-NFx77kGLfC0fozw46sCYTjU_6yRSgwfT46uevKyaNVypwBe0NEbTbXKfEEkAF_iBNw2wra4fEAer__EWGk3JQCOE28u4tA",
+      "view_skin":"https://lh3.googleusercontent.com/qBbFndKJtFdy9SRjdF2qm28dCG_2BEpMS-JgNgm9Nm1zxr-VkyNyKzt28Y6GBRQq73hwVMKL_FtGQIMp76neO66h1G0TGA5hR0aa"
+    },
+    {
+      "id":24,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/DWbqOOLB91MkTm2mHA9OrHKrdRNFnx6RNYCqKlbEcz0zEabmj8sIygQqKIlWhb6-BRPcSuZJkC3vPFDSF1koMcelBzLNcAAKXA",
+      "view_skin":"https://lh3.googleusercontent.com/xBzo-Dmd7pqfc5pw5OrgR9gycKlrDLq1nzvTzS8va7ELnsJvwm6ddc6Tku6HjKczryUcHcs19gmAXfufZNOHDWVuSTFvRxea-e69"
+    },
+    {
+      "id":25,
+      "name_skin":"badboyhalo skary2",
+      "skin_url":"https://lh3.googleusercontent.com/Tfu151hxVYgBNOEabURQm1dcBgsBieN-jBgg0Z0LItfTPKLHeHAJWwdAeieY1skUkgT_KsmyQs_sciBGm6zny-Sjqb_FuxxaPTc",
+      "view_skin":"https://lh3.googleusercontent.com/mx59s9aJ3qRebURpNUwoyGuuIfLzDB-akzJXZuZgFTANiXAzG_WMGgeKYy1kAc4cfKhd2F5XDqrNK40zpwcA8lA5__-AzEKaWA"
+    },
+    {
+      "id":26,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/3XtDYtczkNkiZca2eb7l25hPG8Kr_df3Xi85yy3KbhjS1a0SCZcbH9wcwenjkvJ8fSYc8X3q4v5xs-hN2-CklIE_1c6NyPowR5v0",
+      "view_skin":"https://lh3.googleusercontent.com/88YSYQUkw7NPFzWUcWxkOHRPFbk40YU1ia9cTwwhfYGIDf6uBGZS8r8VU5JAqmIxAaRd6cp7YYuvUC7w-PCuMh0xcsC1fSP3R5Z4"
+    },
+    {
+      "id":27,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/AyLZDvsCYcH6HpijRKr-1lf8a_4F1drgTZHqnvAUIzzNDCymEu4C30_L5XizjjQ_7qA8-4FSEXqh_UfvROp7zVoDFhZxcIWOQPQ",
+      "view_skin":"https://lh3.googleusercontent.com/TGN94lbmAwDrx0epS9GwF0EAIYhAIVqUVx1AGZxJDvkAuD8pNh6eSVF0nlz7fqQfCwXAnNiNTlXiMPRiegQc4mw76Dya1Fq3awI"
+    },
+    {
+      "id":28,
+      "name_skin":"king badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/RI1riY8SU9ScAA2hKtQ-m473Gljg8SLegZi_XmlB_RtJHfyL_USUDAlmGXPrlKxSsKQ4CtuZs4AuGkRMfvfYr60ZQPYWwDyt88TP",
+      "view_skin":"https://lh3.googleusercontent.com/typfkc8bqBVAbWpSFPy2-Vn165RTImhpbC5ROQfqREzP340UkrDap36XUD0cuTR0W9ItZ515e-rOMuUx_ITzJC20HoURTdcp0uKq"
+    },
+    {
+      "id":29,
+      "name_skin":"Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/EgiCDBY8NU8Hyf7H0UiCIjpunbDZWXulmsruloQE1Aw2l5xVmJWGkqaVISxZqkFvdHgnYTKIAQM3bf5VdLBGs6-YexfNlgtUpf75",
+      "view_skin":"https://lh3.googleusercontent.com/oLYyaP2L5gQaDtIyGj7l9nG-kN9fGi8Kpsoox9eK9QurE5wF0gZiYdanqGFuj8e__XLPlAe5-0dyEJc5oeIvUGlXvLzuDVoxPoHr"
+    },
+    {
+      "id":30,
+      "name_skin":"BadBoyHalo Blue",
+      "skin_url":"https://lh3.googleusercontent.com/dVQDh22SXOwXVBDGBsvN6lMSeUscNZEV_JHVal36Y-iWCOBPMe7ADBIClSsn7G7ma9iiNwtif20yQQXf--5LgV2Y1qP1RmSUC24",
+      "view_skin":"https://lh3.googleusercontent.com/RtwYMBktvugjJ48-kA4AOPnN0NrMttwiZhdeFUKrN6-juOKw6vstrgHuLWQgJkds47HTMdH-pmhKQrzzGXdZu9ozmcRFz1TjmAc"
+    },
+    {
+      "id":31,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/izSvvCMCgecnqwRXoJARKcyY7q9AWfVXye0ZN5PgTq1creZAAyPrYNHoJ-06BZ-ggXxjgeCWc2fVLrAa_RzbaGHBwkY16nY-PUk",
+      "view_skin":"https://lh3.googleusercontent.com/e2GNkDaiZ55TXhAGyB2dLypH8lA-wRjVgJr9Mzh80A6sOzKvnrnmYXYKOYlxi09yHOTUKhPCV5dkXiAb_cC6Q6_RPHYFG3f0oMgP"
+    },
+    {
+      "id":32,
+      "name_skin":"Prisoner BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/jTkVnff0vGOSDZE0OlS7C2SiPO2Xo4V9vNCgcVwnjErORDWhuouuQzxPa3Vlu3AdV6yUbME9gUSqxWvD-2iMmeFgBfbFSbDP8EE",
+      "view_skin":"https://lh3.googleusercontent.com/XUUORnOAfQFGlJaKO9RtH6YaKazAcWKXxRHnTTXMrq8HFptRos6bMH7R4uM9v28FDzObVSyZMiRU2armFzBb4HtiopXyOvRt9L6U"
+    },
+    {
+      "id":33,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/StNbWObby2EBcr0fNo9H8Z7p5OiHxKL3Yw2gZR61PpCJSEiMgUDe1LiBB3nVIyfMPXmELwEEEmTfm_2GezJIdLY",
+      "view_skin":"https://lh3.googleusercontent.com/76yOtt88eijShxSjk0m6mEIOT_6CDbFLhg9TcvebuCbOn46skj9dm26KxoVEdjhaDWJ68xzr8V-Jwsc8vyZk9vo28ezYK0u9ag"
+    },
+    {
+      "id":34,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/MVwWeRrFmEpXgyPX78sNDvA_kNsv7lLBQHmj1zYmw99qrBIJBJXNTNazzc5hvVr_11H0eQbo1ZPW6T9_y84Sp-3M6jvbGc_oSg",
+      "view_skin":"https://lh3.googleusercontent.com/XY4ORg1DXwwGhSgOO0hr4lkExsoBmnal_QotwmejP2SBNBQyMqZ9cQ2LNI-4565B0cp6XPTA_O12UaLtdk3kDQhW_8adVRZv0JQ"
+    },
+    {
+      "id":35,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/b5oSlqeWZ00bJbYBzq-8zwND7HXZbDIiYdMiQoFxaOWq4SAlALN7EHcT0YQOcJMvUQ16dbazBfJsM6ojU9q_xSrh28qOZ8dnK8I",
+      "view_skin":"https://lh3.googleusercontent.com/j8MZrluxPNsCDDO5W3ctXcGEW6YQMe1_V8mgt6-tLybWBLMe7bV2KC8I4wVbFqkJScb0Mo2L0SiDqm7VVi7f9CrP2BoCvDmW2J0"
+    },
+    {
+      "id":36,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/t0zPets_fCSyecXctvPm20btWtp2LDkRo8oogwaUkRDRIRp8L80eTKJh8xLpNtPndm7s5CAZ4-pTg9QKTGiUlICREd2gVkB5gw",
+      "view_skin":"https://lh3.googleusercontent.com/o8yx_dWgsBa3ibQp83-GCMwmN2DNWYdMZeOXysGotCa1DzWj-o7vhHKsMMl6bdTu1vV8Qpbea6fVmuHIpzb5DroR1GT-Yy_f4w"
+    },
+    {
+      "id":37,
+      "name_skin":"Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/drK1hwSguMpSFNeH7x4IUwV2QpfJVWehymgHMgvuaOVQyTRTrZ6OaTtC5YBVsg03X72x5WDQ8GKTNlRiTpG4RvZ2HEwV9CZsHL0",
+      "view_skin":"https://lh3.googleusercontent.com/Klri5qezF9NEfztSrGvdN0g5AJrsR_E0PkAeWZ4-4fQtSy2P5dK0w3gfbKUIPUD8T2FOnuPa5jHRE1tQjjyWOlmZ0snLMF4ptBg"
+    },
+    {
+      "id":38,
+      "name_skin":"BadBoyHalo",
+      "skin_url":"https://lh3.googleusercontent.com/z5H5aqTcSK2MJDheROT5F100ZwJ1fnMk987Z8yz7T8dA0QUVosh-7wIC60GD60wcIbFF6wWPpiDaQ0BwnC35WLUTpegAK2x5I08",
+      "view_skin":"https://lh3.googleusercontent.com/l1_gbjmgudJnaxl-uJ8xrQvcZu8QO0xYYlt2n8lKqO8VfECnrosZdWMl5xhFNSoCkbftOsZ61Ju4iZEl7L7ucZoPj-cg5XhnNEkB"
+    },
+    {
+      "id":39,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/w57Q2dKFdFw25SyQEIwZNEAfmAbZ0cQM3fsTV-6edso03Q07hqAKhYunEw7pbq0rTRHx2a5fysMVAZTp0xPsW6ysT6paukb6lFhF",
+      "view_skin":"https://lh3.googleusercontent.com/IbEl22hzcUZg-RKpla7TZ-7iNZrdX83X1z0Rb27XpZSQKvolSnt3bROtkzuLGUXUp7FGWAb-DAwtRQWWtGhzT1NSLg_RFKDBTQ"
+    },
+    {
+      "id":40,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/kDEod88ZBarkcvcs52Pa-czTLb3pZ_V3ziqrTPQryOoTSwgwnVYDXT1CGRE_340PvSFOf9smJZvEUeWB0j5LyZI1xOF1PejVAyw",
+      "view_skin":"https://lh3.googleusercontent.com/zgcKubsYKZHn6RDb3ILzaA6Ro4aevSdB-82Bze30-fXzyDdcZMSs3lPfPD8efJpgBpUhlj1qhtx5HsSmcx66wMLJi86eOjK0fbs"
+    },
+    {
+      "id":41,
+      "name_skin":"Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/fu0ZX8b4-2XhrWE_IUaOKdy-W3TF4evNVnzBZdGlv6tIhsraa3yKpn1I1yp8v7cU51C3ZE5jLwF_U9FDKM72Ek7PjKC99NzKy5g",
+      "view_skin":"https://lh3.googleusercontent.com/soyjWdcgCXPC-EfvF7pTU6rXdInq4bx9ha2opc9YwFwj_N8T5Z4F7Sz-hIjG6c6MfomH6WGjWdJlb0dPfET5TuwtwgvjFvnrVhc"
+    },
+    {
+      "id":42,
+      "name_skin":"Badboyhalo ducky",
+      "skin_url":"https://lh3.googleusercontent.com/F_NBj1Lf2HQ-DuR5Wm9qKT9yqRVclX0ndd8iLlp7z5ZXWtk-TYWGTDygQJHh0PjK9Ckptfb_AzBOOBlcKWFS",
+      "view_skin":"https://lh3.googleusercontent.com/AoftlTbaHefgDPaefvCl_-cDp_m7RNdc83NcxcPDVQ-GdEQAZ1Q492o7GwN65ptwTIakgtai_6rufEzPBt4ZBhen3wlR9PCpKsy5"
+    },
+    {
+      "id":43,
+      "name_skin":"cactus badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/zId1jBr8a43_lZJ8Xr4XsD2lfqKxJ0p4k7_XT6v_HPioWS-q_VlGzrFNsw0TDvrZ7_LXPKQ7jkuIzX_OLVdOZFqsXjLQ7wbBR3g",
+      "view_skin":"https://lh3.googleusercontent.com/WC_TDeitpuRgHDcu7S1WYNRi55vaOa3lxgLin9JaudSdv3phSMrcgU3RIBkK3vkyKTK88FHkpKOXw_LK2lMtIM28gXxJMq_CCN0"
+    },
+    {
+      "id":44,
+      "name_skin":"Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/uOa5jWiNY0-8Jg0SROi--wPnF7EBdd9OnvKyR0j0XOr3RRFoQ64u0-0nB03MAFXkBL5CdreNxPAnm-tPsXMjsg",
+      "view_skin":"https://lh3.googleusercontent.com/rmP_gASsVsS8zNtx57ujNiKKV5wG4D17gg5klS6zEtr5WBfNkSabtySowqUy0jD4pU0hlpMCtP7MEvLf1cDXCpoCV5iHXoVw9A"
+    },
+    {
+      "id":45,
+      "name_skin":"powerfull badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/zBS3xWP0bGz7RhTKdKK6aS8EYNcCwWDCt_H_wo-JuXzeu9h0-8b_Yclmae8E0ktgcDS4NKQajkO0FkQn6UMaCYe-iFOH57_eYjuR",
+      "view_skin":"https://lh3.googleusercontent.com/B1PDJBpub58OsFISN8rhFpR0RAhBm_ymJBz7AtwtF2aa3PTvbY6_6_gM2NF5qKhgz40lWQxFPj3cq6726BLjsaUFuI5gRHkRoOs"
+    },
+    {
+      "id":46,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/apkVbo5qfu0UneSN2D-aNAXb0DzCezxuNTl09Yc50Bs_i1p5gMqnbzKx_IqYvaHwTo5qX_dOmLT4Dbl2BIW-7-_Aw9HICR2-",
+      "view_skin":"https://lh3.googleusercontent.com/kDXSo2KBszY5n3AUgb8-HRv1G2AsEQuhPsVnf1AzunQ5ur3V_ey9XAUsr3f1VrE9z_mDXDiksRVuqZChm45F6LLkBnqC7sMW2Kw"
+    },
+    {
+      "id":47,
+      "name_skin":"Mortal kombat badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/Wm97tJigOEAT5XBsZZX_f_KNVqdcQfVPnfCu6OB6D_4i68g5ORJZhkSLHa15V0aeWLeYaXgSkBCXAfpfyK2A8lXi92C9Y9I_HA",
+      "view_skin":"https://lh3.googleusercontent.com/ID0TfD31z_pJPwepW4fEPz4rblvjsAsCa35cRxHXZpLHMev-ymXRxHmslyXvD3Qx4JEH8MNHGZFIcXk7H_3YmBCxsoJ9tVB47X7r"
+    },
+    {
+      "id":48,
+      "name_skin":"Badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/5p9FqR2rgOI9U9JEaPmL1_HBrG7pNGf3VeI68_xu2YuMy0gseGwJtWQ7e_MU-eO5rDefjs-4MNhs7l_md1re2rnhE3ZMWjC6kg",
+      "view_skin":"https://lh3.googleusercontent.com/_MfPJbZ4woOTYrUdeEx1R6gtljIhD7_bKY_oNmZ2t-emdze1aC_6BUwG7cXjrPlDJTmpa_iLja-7uk0ZdMhY9PLlEhrjdb9s-Q"
+    },
+    {
+      "id":49,
+      "name_skin":"Among us badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/pZ4m4GqgkSL4y8El_7h_nJ08lKAqlCQjFZAn8rjmu7w1Z1XmC20PVsioJj3RbKiRGNNHS5qJnXIpBblDRasNs6mS5jgq90i6ggQ",
+      "view_skin":"https://lh3.googleusercontent.com/dr8OIZ__Qe_QTursGvz7W-uk-7ezisWWwEBw6FV1wJ_gDXKZ6CAzx2iLUBSWiYvCfmZteFbBCUTjSIuZUll1mx6S_dHGUtsbZQw"
+    },
+    {
+      "id":50,
+      "name_skin":"badboyhalo",
+      "skin_url":"https://lh3.googleusercontent.com/R7kdknMvBfa-uenl3tkHwrFbLmlgfzzQUqNcUwytauhKdnDr3A6uxHTUo8JcGsXT_TfU8dnCkHlAAhwIxpZkk3qFL7BYYrFOg0Pn",
+      "view_skin":"https://lh3.googleusercontent.com/QYtcZpomSJovQMnpqERzwsYlSDtx5cppdf0AFPK_gdjUI0A9kJB06Fc5FSkRKZk9YduuCB8ptL7LIs9v00BvH_pLt3Ztp79xc6x3"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Laser Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Number Blocks",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"The Imposter",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"Furniture",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":6,
+      "name_add":"Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":8,
+      "name_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
