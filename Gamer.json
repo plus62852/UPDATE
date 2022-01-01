@@ -1,0 +1,456 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Red Blue Gamer 4D",
+      "skin_url":"https://lh3.googleusercontent.com/fWszeLkY1qzWuJfW9L9exmarbjk-Yzimp1OEj6MZk1IanYiN6mQfhu_F8XZ-wpVT6iGVCcIHjqpd6rIZl_tITQ",
+      "view_skin":"https://lh3.googleusercontent.com/43tJ0UqpcaZ9caZem-eUxB4qr1gGdGWB5oIJrW6vKAmwTfKa-IufZb3bIgx3Fn3f8pv7tvRJA3-dHLrdHhnD6aA"
+    },
+    {
+      "id":2,
+      "name_skin":"gamer youtuber boy",
+      "skin_url":"https://lh3.googleusercontent.com/_FhUziQBDAO54K28Z-d1s3UsWi-rWtxKRchJ8_Sdsi91wqz-lNuLtYePuk6nQ6rxII-Be85SF_vtQSvXS2OY",
+      "view_skin":"https://lh3.googleusercontent.com/xuEfktudFzC8tnssQHSxgSO9uRGxykUyuB0KBAMu7D6uJjAt1DDha-thnQe3fV1QNkc1H64wJij5NHg54qj5VA"
+    },
+    {
+      "id":3,
+      "name_skin":"gamer",
+      "skin_url":"https://lh3.googleusercontent.com/nO6pxkJtBltj9V-I6rIjauDR4HNj4izD2mC-o67U1CQH9dZkpdW6oJvta3PMcunO8XN2rixYgvkvw_2yZW1IAg",
+      "view_skin":"https://lh3.googleusercontent.com/Ji1N7hO1rsyeS1aotPHBgwj8aeAP376UnQN5qIf_lMBLJ3EaRuUaz2fpAwWR1_lqEa0JVSiU7yLo87AkjJAD_Q"
+    },
+    {
+      "id":4,
+      "name_skin":"gamer ninja",
+      "skin_url":"https://lh3.googleusercontent.com/cZcdJ-_D2sQH46gjAoMnHFSC3plRK7GIh8S1SpaPgiMI7ypjz_UgDrLcXbIG7U2BNKxttRq152Ki7bc5brnNEQ",
+      "view_skin":"https://lh3.googleusercontent.com/u7gxNcVZ9G640oMzlLOw9fee8VXDxHC0ogUufzgF7YjcUsDDgrJ1CMpS-VvzxkYqLAJntT9N_JV8UxSMXrYjC20"
+    },
+    {
+      "id":5,
+      "name_skin":"panda gamer",
+      "skin_url":"https://lh3.googleusercontent.com/wV2BHimPnZfiDmQapup7xsekB5Rk7dDEqGQAr7Jgo7FPT3UtuS4tYOlSv4-GNsS0FX1e4WjgNujgz9O-0U0f6cU",
+      "view_skin":"https://lh3.googleusercontent.com/hIadSwMzHYHda-OLkuOkFY61vlz561d4iv2w8HrKpwXEBRNS4iyFjEyZs_zcb-ckvV_zWHaAjmGHz_3Kpr7TUA"
+    },
+    {
+      "id":6,
+      "name_skin":"Cute girl Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/6NS180x5nrexB8piM-kN967bTyIurLCrROqWjTWAl21Yh6E7ZWE3yZzPp2kw22-dWlVfzl2KNPAWPOu6XeVcPA",
+      "view_skin":"https://lh3.googleusercontent.com/jwY7XjWrOx5eS2GP0z4MO4Rh71hzTm3dm2ZLcrbLeKb7Iq4ML1Y_7WnR1OeFPBtiHbRtPpJ-Jy7p7CMVajHruA"
+    },
+    {
+      "id":7,
+      "name_skin":"PANDA GAMER",
+      "skin_url":"https://lh3.googleusercontent.com/8Xm4MrYbUveWYuzNvSN1gHrclUiz-jr8_Wa7s070efa95BqHu1xHBmf53Ppp-NqFyo24h12yrPeqaLLtqzk",
+      "view_skin":"https://lh3.googleusercontent.com/QzgPlOWsBgkfzTKHGB2Gh1vdczvVB7FlAVZKSitZPN4EQETX9piySEa8Os320JONNX_4fCYpNlvwMnmOi0Xt"
+    },
+    {
+      "id":8,
+      "name_skin":"fire and water gamer boy",
+      "skin_url":"https://lh3.googleusercontent.com/5ATrrbCnB2lbg9butAJJdDLJDHrRU6d8DBI4bVcCNI4LWDq9_kkwut7kzo3paQwk_f-f7O8EW7wtnU7J0Q3BMw",
+      "view_skin":"https://lh3.googleusercontent.com/8VBoNpSQvsxiYyxBPoqVM8c5Ym14pTxoX4B8uZcPAd9Rd9EDNAfIfKEIjQWc3VpjYUA6vSdEkOgbKUTb5WwBQcI"
+    },
+    {
+      "id":9,
+      "name_skin":"cool blue gamer boy",
+      "skin_url":"https://lh3.googleusercontent.com/IaKQAvykUw6IhdIpLiHm_zuo8nvU-qySFg7UIEv0euHeBuZm4od03WYh9w6RoAyzU7LmCy6HnQvbo4SyJNJx",
+      "view_skin":"https://lh3.googleusercontent.com/RiQXNnoOpQHL4ogPRPRnkhkMt_HsRYeVgYJSMQorLVbVlvIliCZwv1_YPQm07M-7BsOQRn-i_Wv-Om7skEx6zw"
+    },
+    {
+      "id":10,
+      "name_skin":"PvP Pro Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/fNitNjbudwNtSZ7_8tI85hQcQJYaeEoD7dM67Li8wXRyxaUXIpzbRBodGYjm-uLh21TbecOu0F1jU21W3JKfj1o",
+      "view_skin":"https://lh3.googleusercontent.com/RoilrWMyxgqKLIBaGfJAmN1DJnLPj_g-AszlIODJM8bF_oFZetYuiaFUCpkPi5S7Iw5_kAkfJ21ht2Na9ySpTHQ"
+    },
+    {
+      "id":11,
+      "name_skin":"Enderman Red Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/JrDlsHImBtmbr9YDRQwqz77AlM-3KFNwbz0v4blBKhjqowpGwyYayLJuveMOvGYLskj3J11jgoG8_HlmWrrc",
+      "view_skin":"https://lh3.googleusercontent.com/OEUJFOADEjbyuxfwumx-CuBVI3qZ1FvG3cpY32J_Ho4mSb9VU4_b1sWkdK91N7D0Ym3ooK9FSQRt3hRGA4DIl1A"
+    },
+    {
+      "id":12,
+      "name_skin":"gamer indonesia",
+      "skin_url":"https://lh3.googleusercontent.com/0GTeIUiE0ftJ9mWqVfzNSjAoMjWtW7SsOytDVjwWa4tCl4c2XhkI13OVbXkFKOwVv5rN3yebDjvr-DqxYEGWp88",
+      "view_skin":"https://lh3.googleusercontent.com/wMrfibJ6f5rqVgBWt3L-3LIQrlnB3wt_J_xK1TPSvEyO4U9kRLQXlvrLvwQo1x8yZ2qx4WdiPI1exTf8Rg9A"
+    },
+    {
+      "id":13,
+      "name_skin":"gamer youtube",
+      "skin_url":"https://lh3.googleusercontent.com/B8CPfP9YcMz4rwruXPV-dN1IASX3141hK_N7T0lY4sOht9JfCPF_93r0v_8Hn99lUCtustj_CACp35MGFTQ1U9M6axHOBmoRhso",
+      "view_skin":"https://lh3.googleusercontent.com/qD3nQi3yq4DlQOQ603WzjMQjQSL_opQzN5xAgWuiDGqpTmg83dH1Ki87uswSX_-gG39xKubNtLHXRYbLoeo2vgm4GzcHkgZpJ6w"
+    },
+    {
+      "id":14,
+      "name_skin":"Beto gamer",
+      "skin_url":"https://lh3.googleusercontent.com/P0mnOhGiA-PgbNJkelWtT6Fx31dNmMUxyeyiRsdN3_BEa4b9_ChZTLbfPaxko1DwmuMIti7Iu2P8R3cLD1puTw",
+      "view_skin":"https://lh3.googleusercontent.com/7UmAJfowFhrZz1p_Lxtl_87loamTa-y_WgBRNM1PzLyyC73j3ca5flhfGc2L0QvdkOppaEm-238Ozm_3gxLK20M"
+    },
+    {
+      "id":15,
+      "name_skin":"chico gamer xd",
+      "skin_url":"https://lh3.googleusercontent.com/knUGheVmm--A35Eywh_P-EZ4EQxr-Knd7a0nkscipF0u9udeibdvQuzFG2_--98X5IZpFcazrPWApH8R95VG",
+      "view_skin":"https://lh3.googleusercontent.com/bxJcGwMXRvwCI9YlpWeMeNYop_7Gp3mAkr0Yq956hM_f37yr5J0WUo5CcMOHgj4-57DVQRszeb11io2Wbts3qA"
+    },
+    {
+      "id":16,
+      "name_skin":"Hacker Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/ru2pvQt7uvkV4P1auulg4YfUkGHmV1E_Agk5cqf9w9h07JEM2245Lwaf9Tthj-AV2C4URxx6nEY_0qaVp-5lVDc",
+      "view_skin":"https://lh3.googleusercontent.com/Tw6kMKQOz4_9AhGffjpA5O1ToV95K-dbLfnSZpcQfOJKOh-jDQjNxsSySfXD7Ov_RfGo4O4PueygpfplT9ovT1c"
+    },
+    {
+      "id":17,
+      "name_skin":"raptor gamer",
+      "skin_url":"https://lh3.googleusercontent.com/Es-79tIQ1bpj-nkBGuomW_gqpzZKLRQP7a9uPfWHm03zGRVARHm9RZcHbQDwKlye_LhrV9GgjYnOgpckowVFeg",
+      "view_skin":"https://lh3.googleusercontent.com/NhsLtHwrFo49FJ_NBKZSmdErKf1_8SLpAiu5viEsyq2JfSMTCc14ckY2bXbYKYneBV0Bv30K99jrVYNu3XEy_ys"
+    },
+    {
+      "id":18,
+      "name_skin":"Robin hood gamer",
+      "skin_url":"https://lh3.googleusercontent.com/eJ7VIBSQForSPePrRqUs2ttuIg2MjvywPBGme-IcYfdYKmbhAXjPYDj7ySF6c2P47aW8YHRdpBwSIdWKXN7yCi8",
+      "view_skin":"https://lh3.googleusercontent.com/vsjNquNY9h3X2f6v0XBYE5z8mTKZRkVDS6P4Daqg_EoNH9rQTT4ndy4jKGsiFVZcV9WqsQPq61C0QTgTLuVRmQ"
+    },
+    {
+      "id":19,
+      "name_skin":"Purple Gamer Boy",
+      "skin_url":"https://lh3.googleusercontent.com/YieNg__NRHFt2dYc4OFa51LhkypwFTffNKH2DKiyHk5ZVYCWonL15YhyfFHoWZZyqgsZDXCfkAZqXWmNYjI-",
+      "view_skin":"https://lh3.googleusercontent.com/uBan7WDreFePSLSIbDuCZiF7zyyLN8HX-ermPHJf5s5W1C6zSvSrl8rP4ONH5zKmtk1mpFHyjO6M-3axNzXhjg"
+    },
+    {
+      "id":20,
+      "name_skin":"loggy hindustani gamer",
+      "skin_url":"https://lh3.googleusercontent.com/ELJify-LdAECqoHRsJWSG1ZKtNw4iMr_azcQbIbXqP_ohAu-Fg8tPahUu49V7tYjBkmY-G6qyM0O4iZSGvtW1A",
+      "view_skin":"https://lh3.googleusercontent.com/B1w1vaRliXNokD-718hNBZ1kE42iP3inKsJBi88MAONngaDKrlfAFvL58jx_LYu1nzIZ3IMQ7r2VUiw7zG-B"
+    },
+    {
+      "id":21,
+      "name_skin":"kawaii unicorn girl gamer",
+      "skin_url":"https://lh3.googleusercontent.com/KFtkEJZUZGFNKS3nLAen1XNP6lvDgcWBt9eGLYgVuvM1sR8tqAG12up5_DW1rfRU8nh_Mntw-P2yeZ1hht4-8A",
+      "view_skin":"https://lh3.googleusercontent.com/9dDKprnnkVDshXHZnNXPL5Hfu8WsC7AGuLCu-liVmSeSODyyV5eto3aS9dMzwyZHt58Yc5TuirgR-G3rsPtZF5w"
+    },
+    {
+      "id":22,
+      "name_skin":"Gamer Boy HD",
+      "skin_url":"https://lh3.googleusercontent.com/IVZlwNhJwujGMz_j4YdQZRFEYIeeZqwdQl_ZnUxrtdXi2-IWTg7I0E0IjjB7ZmYgy3Xkw3kAZxqMNl4ofQD9lB8",
+      "view_skin":"https://lh3.googleusercontent.com/kMZjYlaqY0Ac_QASwidutX4j7V-mW5PNdBG0RARh29fvcNu5zYn9KmDwm8j9QPBtjkIIIlMq6Lb6viV3bM8rMw"
+    },
+    {
+      "id":23,
+      "name_skin":"water and fire gamer girl",
+      "skin_url":"https://lh3.googleusercontent.com/QsbVs-bC_FWWlRZJf_NQP92thk7D5SYv0dnDAMJ_ohgRJzKriLBe_WiTiDE7YBdaEw5cDubgbdP8d1F4HwgM",
+      "view_skin":"https://lh3.googleusercontent.com/utWPpEGlMmkk3v-GnhxNW_yFT4XS2ZaysfED1f2Br1fi4BxOn6B31ReBe9TGmkmAyKyZfEsDP0WnWJW1DL1X"
+    },
+    {
+      "id":24,
+      "name_skin":"Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/_jbGAVkpZDOStFd3tLEkeNowQZjEdeigJe5rZVmfSnZ89OdG34oAf315tAz99ADmQHx7F91BZGWfO8Nosh7QesA",
+      "view_skin":"https://lh3.googleusercontent.com/fDfuCQC-MK_UPpiNzutPnnMvwVVSPDZbqkEW33ZwmO2PqzXttBfeK-T-HXLRN8Wwnps7RR6caJlDwgj123ToxWQ"
+    },
+    {
+      "id":25,
+      "name_skin":"pro red gamer",
+      "skin_url":"https://lh3.googleusercontent.com/jz2Ku1AWr0nA9cOvmMDwsxfjSJjkZwv17l9n0YKZFR0Ls3SfZU29f6n3LlRiKH4bwPffwken9JeCwjUtHvl3AA",
+      "view_skin":"https://lh3.googleusercontent.com/SnWgt36HwlWz1-ee4Zh8JdUU7khEv9fVKqEdi9itznp7QM2Me7OCAIHqrwm5nmuzWCmS3KRsFqeEeNpU7FJInw"
+    },
+    {
+      "id":26,
+      "name_skin":"otaku gamer",
+      "skin_url":"https://lh3.googleusercontent.com/Geb8EOv4mt7_JWcDOFakyMTJrG87XDEB1Yqm10I6MXHnmBmFl2xQaAXT9YhWg2AJixVuhOqc7-pg7DmNadEWdAo",
+      "view_skin":"https://lh3.googleusercontent.com/VwnjBs2c1m8J3N879uySm_E72GeCvkj8b159suybdYz3b0zsiLYJONJUgeVAymEJu_WZVc9vWngeHJba1rFuMA"
+    },
+    {
+      "id":27,
+      "name_skin":"pro gamer",
+      "skin_url":"https://lh3.googleusercontent.com/kdohg20Tpl_or2GpYfF23sC3i702eTo_vp3oYQav9ogGnjTnzIFy2GBvs4TxFqQZnPQZegTyJQM_exkRmyTKjw",
+      "view_skin":"https://lh3.googleusercontent.com/gLdbU4-A7gVbXf6IEt_uo5Z0TwW4Qz7Y4D_DcEVUtogqN5orjXXFwejogfdL-Ux4_iT-11fGrH2Iq0n48c1ULlQ"
+    },
+    {
+      "id":28,
+      "name_skin":"panda gamer",
+      "skin_url":"https://lh3.googleusercontent.com/MV3U_9piWMgvvWkP5hmcULi5uJgPk91Id0sC233pCptjbGgFoGBcPzyMWOT4fxkCi9sU7cA8Wc2N_veyoYYX4g",
+      "view_skin":"https://lh3.googleusercontent.com/oh9nm4T1l095i9kIpaGQkTR0GiFGr59reDr6OGJlCA58BeFPx4S4pqLRS9hYP_-t_Khlt13WHm-j1CTaXk0h"
+    },
+    {
+      "id":29,
+      "name_skin":"robin hood gamer",
+      "skin_url":"https://lh3.googleusercontent.com/UNiQWsvupieYmefp73k3LYU6EvSkOipQY6ZeW1r0tNSko23ebodp0VkzqI4wpbLk8Sw-EG_hLN6KlJJWfoVzhoOYRpFBOYuGPYo",
+      "view_skin":"https://lh3.googleusercontent.com/fkOjJAE79ltII1-RGFWnBvLWdwROfg4gj_boVgTqCwjhT6oNkjMNwZajFBWfrPZo91t0Y6jpcmqjXUUnbzqY9SSzvefzCgx33UnO"
+    },
+    {
+      "id":30,
+      "name_skin":"pro gamer",
+      "skin_url":"https://lh3.googleusercontent.com/t1sG5rO8s5QwYrLnQ-1cR8zBXUjEqqTr3VPZ0ihKTCWr3lVpNEp32tkOOAhmRuSzOmdSym2gb9DD1QNigatV",
+      "view_skin":"https://lh3.googleusercontent.com/9DlOtXl0uu5QJIzSU83UOyXOa3C2ibspfPenu3f3-QYQtD0wJRW9dFYvqzt5Gcxxh7KT-lxCKQ_8FQpJbzZgZw"
+    },
+    {
+      "id":31,
+      "name_skin":"Gamer Boy",
+      "skin_url":"https://lh3.googleusercontent.com/BYZvqRaA1nMbX1QFWEQCSyRP_FXW1fYMaj0up5u9vRstF8DVxn2lhoWlKB9mua6xXw8sF3CdM_B4Kg5XadBR-Q",
+      "view_skin":"https://lh3.googleusercontent.com/hS2otfdewa6kzj8WzUZwZBmYXe0UUpFjIJwCkRoHwKYeuJOeQO8RyXQt5NcwHpKBumBgkiX0uutQH-MBKfxo"
+    },
+    {
+      "id":32,
+      "name_skin":"Otaku Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/sWs_a25WRK9kz-859aldXC_yGgA5sYxrmt7-BvOJ67AORu-0OCr12XmfPgXrs-u6EJtn8xWFFSUpQFFAY0sFqA",
+      "view_skin":"https://lh3.googleusercontent.com/ZKije63BhdyP9c689BjKuc2x015bnx0a7Getp1o6RaDPR44d6avGqSOyLpRaldXoyY1oUUKehi0oKAZ5kjfV2uA"
+    },
+    {
+      "id":33,
+      "name_skin":"gamer",
+      "skin_url":"https://lh3.googleusercontent.com/mBBTJALEQCRB-m3C5czSJs39oKd-L5DPkSsjEpCUxM0T_FDNOPa57Xs4SBTvDfHq73qtstv88GOgZzs1y9rB",
+      "view_skin":"https://lh3.googleusercontent.com/fnPRmdsVUm-hVAo1gTJdBfjnkspgcSLHlWqI0R9DxFKZg2JTNLlhzl71tX9pHsHIAvQLIra4ZXHkpx7S6SEOZA"
+    },
+    {
+      "id":34,
+      "name_skin":"gamer",
+      "skin_url":"https://lh3.googleusercontent.com/jqPHkxLMGf8FPmYaiOTfxJl5JOqw-WKesi2iyczA2l0xekJ4_3lskGKJrRZAfVbWWcVbgQfuoUXYNRWnJ0Ty",
+      "view_skin":"https://lh3.googleusercontent.com/MjCdtd4gf6UwgEJY3YsjCPD0Bglp6JP-Sj32hCWFdUNEkQJoOPkVQyCT8obdd7-0WXSHvCBmsDtSuxde6X69Cw"
+    },
+    {
+      "id":35,
+      "name_skin":"GAMER HD",
+      "skin_url":"https://lh3.googleusercontent.com/8ZprBMDvCOE82Srj3s1EjpvHpyyWqdIvrf2KhmDN_W_FSa55m9qRmGq9oSUSJQQxsDqBi0ojDE7ud9Cndwt2",
+      "view_skin":"https://lh3.googleusercontent.com/3z28Bz8KHFD8Osv8LykgHByOzkeW3BfX7wCmwaORoa3Op0MJZHs72kwnAP_lFwWqjwUyrkPeSvfBWfW7wC46"
+    },
+    {
+      "id":36,
+      "name_skin":"Menina gamer",
+      "skin_url":"https://lh3.googleusercontent.com/dx0r-yA9seoib3MH1RDrJgV_9XnEPh6vx9xx_otVyB6Y2WO2aeCd2b5_wBfsRYubIz7P-REHvf5U8bIk8J8uIg",
+      "view_skin":"https://lh3.googleusercontent.com/DcJt_Rg36oYJyvsv0QYWEcqJboCts8f5gvAcx7UvQF6axll-_2Ioi1h8xcpcacKR3qpjbOqvBFVu12hFGzEITQ"
+    },
+    {
+      "id":37,
+      "name_skin":"pro pubg gamer",
+      "skin_url":"https://lh3.googleusercontent.com/9ZgahrM-DnOpRC-82-VtKPeGLhwhY4aMUndkMVClOYm5InCkHN3OQqzKXE70cTLgoujkZnMo3s0aDipV0LjObQ",
+      "view_skin":"https://lh3.googleusercontent.com/6YvY9o9I-BTnkdkIIpzTqvjJyNJ93PpfULsCNANO4_GOC4qxvp55Kj6a8FwK7b6I8XQluQ1T4ARN69-CKKmgTV0"
+    },
+    {
+      "id":38,
+      "name_skin":"robin hood gamer",
+      "skin_url":"https://lh3.googleusercontent.com/A2HnHE_vlMeQNu3qZnSU48t4-unYzwgHt1R8JoCxdv0yrwgOWZ9AXGO9D1p2ukjMWp-CMexY11akN1tkDaZR",
+      "view_skin":"https://lh3.googleusercontent.com/OXOmwTfpWLIY0f4LJqOjEfMdvFX-3MnjT_ePEFk00SM9hMxTlmruKZ9nYiDCi3_x6FcmqqWIoMNZH38yisQc_bc"
+    },
+    {
+      "id":39,
+      "name_skin":"Gui Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/NiJM0-CBM0SnH9AxJ78GHpOGzwqnKR__YY2TfHAYvkfOfs7bqL_36K2AdoK7Mx1RRruIphvykfqpiu_Cm7H6sUg",
+      "view_skin":"https://lh3.googleusercontent.com/FAhqRaUjj3bfQeuz3nMFn2ocUbz5Pt8QwWQL3MsIpnZp6OH_PHINfsc_7NS0zTJdyiRqIJF4cMm131Tdnu87jh4"
+    },
+    {
+      "id":40,
+      "name_skin":"jams hacker",
+      "skin_url":"https://lh3.googleusercontent.com/nxN9V9mi4kf_fp_9k7akclEns6UrUAczsRBXlW6EexrTY_ClWcek3YwahQAPFW9i2DeAXeI1r36GfzrdqNoocw",
+      "view_skin":"https://lh3.googleusercontent.com/HE5QyWzVgfJ1BInlC_iBFd5b5nVSzhqecyvDmKucoXnFXYJDFOwO_wdSYSSQJKIhxrohxQ5BT33H8VkurrDPRA"
+    },
+    {
+      "id":41,
+      "name_skin":"Gamer girl red eyes",
+      "skin_url":"https://lh3.googleusercontent.com/JC4mmxBFDw80Soti-xZnEk4rRZZENvLdn9Wrmh2uZg8cHmoolkwiPQbGuj2ThL0UseKaEDj5TrGaumqTuGQMJXpvk4Vuc_CBrG6q",
+      "view_skin":"https://lh3.googleusercontent.com/j5f7zQRjbxTC8sFSM1EA9BkNIpbxdRs4azwTCgu8w3GBnrgAlg-aqMOglIGEsyqh37yXp75zaZnoec4tRsD5WmL8XTFfY_NBsQ"
+    },
+    {
+      "id":42,
+      "name_skin":"Gamer",
+      "skin_url":"https://lh3.googleusercontent.com/LaxM1RBOgI_HjWVowJnaZ9XgutD0HC5GI2EImQqJu5sMOJT79qZkU6XhescBql-iUdpTR-78LikkH8FqmRM1Zg",
+      "view_skin":"https://lh3.googleusercontent.com/Y1MGm1J2O52NtAdI2yB4AKzyDtITQmhxMWzNuk0HOpaaGP5oHDB0NYywbuh7zChQUG4pQp1W_AcpoPpadb3BWlY"
+    },
+    {
+      "id":43,
+      "name_skin":"Diamond gamer",
+      "skin_url":"https://lh3.googleusercontent.com/WkLdaB5K8y6DmNMb3EB364oTRsfxmGkeaExaj5_4pTZSPo__anD7KixPc4EkW2vErwCcGM-Hb7IcGiw7A4nt",
+      "view_skin":"https://lh3.googleusercontent.com/iH0A2eUdvHyHkJh3_SfVRTRurmZkN9Km_sUJ6gQjHMy7taLLolmf493I905UhZi4fDxLDAIdjjTq3OBjYup8roM"
+    },
+    {
+      "id":44,
+      "name_skin":"Purple Gamer Girl",
+      "skin_url":"https://lh3.googleusercontent.com/Ez7Ae87PyTrodS21pVJfW6W_hVNHyUubCbF36YsKa0LdFE117Qkhu9LWJ9OOidTHPFL5z73wLUNGWG4FeFy5CrA",
+      "view_skin":"https://lh3.googleusercontent.com/7Uyl1PrDsTeTtbLa7apNz9_cr-FPkdPSMYwYqqBajQvLzAV0h1FO8K13mDGTFDqMAJh-R8BZksAyrrzvm6LNwC0"
+    },
+    {
+      "id":45,
+      "name_skin":"pikachu gamer",
+      "skin_url":"https://lh3.googleusercontent.com/GUUjhOrUiY_DjptYEzl2x_cZzLsYhL9tHyLmFkLPjwwdPjUw6JHOAoesdlIXKNim6Jd-xPY_cPMnSbFJ7GDTUg",
+      "view_skin":"https://lh3.googleusercontent.com/jBjbTPIQIR4kltey5Od4wxLm57lHJBPbUQVQN6PuDS5hf2lAXDFL6jCWJlrVR5YlShDmJ1bX-4qpWiNwnqzmZg"
+    },
+    {
+      "id":46,
+      "name_skin":"Green Teen Gamer Boy",
+      "skin_url":"https://lh5.ggpht.com/IYk2G7b-DXQBQoeQvBLLpgECslPN7S6nQAY-5ItAuIgVt6uuuN96bpccrpjtHrQ_o9L_JMIVYuri488awUU5",
+      "view_skin":"https://lh3.googleusercontent.com/kLjJkLp2ZUTYumhUggMVVd-GD5c13bZjuR-8FdcoRpiI7ad6SM-QfioVr5vHn4oQGRtGDuY2aoWjZpL5MaDX4w"
+    },
+    {
+      "id":47,
+      "name_skin":"pikachu gamer",
+      "skin_url":"https://lh3.googleusercontent.com/LWPEb330N1UbYw7TqV_XxawArqvPGWPt5HFEkynwSoNrf9giKfEjbCV6NUdHPgSXy6aKb9EWug43YN3NQ65e",
+      "view_skin":"https://lh3.googleusercontent.com/7sMQJGcYDf9-V99tt0EwtlNkD75q9xZJYRpqmXJGPiV4ZIsnGFt8IvEPWwFFMQseg8nwa7_6hbc0RxZJIxXcpp0"
+    },
+    {
+      "id":48,
+      "name_skin":"pro gamer",
+      "skin_url":"https://lh3.googleusercontent.com/w209ObFLYcZIwKfhIZQQmpgPIyv21q3Vr7LBNLDrliVX-NcsiINIrEmmac_bQaH5Ng8i3SK9fMzm45_KBd_D1g",
+      "view_skin":"https://lh3.googleusercontent.com/hBUsPEE-JKWphwRiuMe7OGCJQxnixWFmDwcJFW2rvHveOjUkZLfYiK1aiLvTUsomJQA6Uodevj_Ctu8HAL5l"
+    },
+    {
+      "id":49,
+      "name_skin":"gamer",
+      "skin_url":"https://lh3.googleusercontent.com/ijsDxoMOSorzAPQFMzT_DJ8tsPspKzUQzizC5-2elqKEEGv2_AF902-goOScSkFi2hxCliqwGOj-0fhzFi56IQ4",
+      "view_skin":"https://lh3.googleusercontent.com/6MZq8zXeWWg_9D2bK_A7RJHi27lwbO1illAFKQ1uF3Qn1zqii0mSbDoyRJI-Bq3l0JegtjY4GW4JQN_cbnjS0w"
+    },
+    {
+      "id":50,
+      "name_skin":"Gamer Boy Fire and Water",
+      "skin_url":"https://lh3.googleusercontent.com/jSMX8YTjI5bnQ0rvdZ_8gddsAsXTiFL2NTqaT6b9qZR4_-8ADbrMFkHo1kBHp0Z0N_FraSS1-JEhKVludZo",
+      "view_skin":"https://lh3.googleusercontent.com/d3PKEYxeYrApNJy99nU52KeAK3xUHLY9jWoC0MBqZVuo9-pkyP7rnOCgkxu6OgWSOsbde6JSF2tdFTs8-vhT"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Laser Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Number Blocks",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"The Imposter",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"Furniture",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":6,
+      "name_add":"Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":8,
+      "name_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
