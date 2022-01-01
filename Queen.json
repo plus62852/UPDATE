@@ -1,0 +1,456 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"queen",
+      "skin_url":"https://lh3.googleusercontent.com/K9EZN3bfZ5j729rsuE4TIaX7Qk6VwfMRuNb1NCGJbjOEUraM3CSQ8Y_8RTr7F0XdQCm1pLiLLy4JJpQh8b4L",
+      "view_skin":"https://lh3.googleusercontent.com/FWUdoQqBfknTNirmJr6TdGQUkdVjYv4akvnTdMi_RIj8LM3lEpn80ggI7gSv2DRjgZzi01tAVPzmh5jce4YMvyw"
+    },
+    {
+      "id":2,
+      "name_skin":"Harleen Quinzel",
+      "skin_url":"https://lh3.googleusercontent.com/wnHERT4BDbaEvwYUIQtE8TrkQp-Dt5QuElC8kCmu6DF7olKEHIU7tMWpSs5Ucv-O3SCeZ0X0CfXAIYPGmDdW9jwHz3ENJir8J0Y",
+      "view_skin":"https://lh3.googleusercontent.com/Er5FoKkQu9kp2umAGa2hmP8PsYRTNP17TJ8C2ihyUbIF555mhcw0Qqml6UR3od_eQUNLkmVTjhTJriLykORjOaJOrR2D29KBGw"
+    },
+    {
+      "id":3,
+      "name_skin":"Queen Entity",
+      "skin_url":"https://lh3.googleusercontent.com/B581JQN1kzP9d-HGGZjclASFcAEo-QdVX0mEsQ8m_DKx-IeWDu9LNlkdm3l0hnVxzBRrd5U8ZmbBAEXDUiU7-muyiKQQb7M37IQ",
+      "view_skin":"https://lh3.googleusercontent.com/4RlGaQ2rSOyGzXs3fUmjuBMaLx8j1r_9dpr7RC_seKDtrsYMie1ntJg2oQb4YoziZ-DfjXqDipHh_bjDTLy6ZyLA2086IFPkYOE"
+    },
+    {
+      "id":4,
+      "name_skin":"Girl",
+      "skin_url":"https://lh3.googleusercontent.com/OrJ3i4FQQJG5U49iUDNERbxEvBZsR4jfItJkrcdB8rCnsw0rbZ2tS-uvNOLA_6NFggQDr2rwvMXBDx2q0r4hhL9HEHaOBUEvOQ",
+      "view_skin":"https://lh3.googleusercontent.com/bdIeizcnMdDMPLDxC5oPWWAV0oaLOl4ezLP3M00DraXIGfHmD7Hy8xDixhCQ6wKMNWKGLojubLa10pjvFGdBl6Jt9bSiFy6f4xk"
+    },
+    {
+      "id":5,
+      "name_skin":"End Queen",
+      "skin_url":"https://lh3.googleusercontent.com/sNSBaGdhSeDR7gA2pWWIduWJS-PIPjOxq_Zn2TmAV6nsvaTUK6kzvuEhKeNtqjA_O2NbgO6YJYmJ9VMNQkjavw",
+      "view_skin":"https://lh3.googleusercontent.com/tbNuf93DWqRn2SoRdVJxAmn2JLGJNGVJWEVKojF5q8qNaYJvGhhBT2S-MLOCX04a47hDRGzuvMBW0hn_Mqkx"
+    },
+    {
+      "id":6,
+      "name_skin":"Ender queen",
+      "skin_url":"https://lh3.googleusercontent.com/9z5_cmoAIMLYAdTxPfKNrNGVINHcjmJnDcrNgnXmSunryvYzsBbb51aWXkSgPozQOkEDB90xheB8Zo5_rWVm",
+      "view_skin":"https://lh3.googleusercontent.com/DrDlUFnGixfFZKRxNU4PU9GLgZTKhXwMKEWpLOr1dfxxRnt2KukNQ36ceZlkbxXsvmGzHbI-1gqdqQci6Ycoag"
+    },
+    {
+      "id":7,
+      "name_skin":"Goddess Princess",
+      "skin_url":"https://lh3.googleusercontent.com/WE5zX-_srDvkHTttcNmUk15kHsqfSIMKdKC_SWRz6VS6pr6M2z7VYX6hSiS-v6zKAkB3J9A98oTc-ygxZkoW",
+      "view_skin":"https://lh3.googleusercontent.com/53SX-G5zNxhjjhTul-_IBbSbNLI-h6_ZBgOSs3TRuKgKyYFsd8GXZ6T_3An1mgwRfQKYDK691r-nwldFyF7McA"
+    },
+    {
+      "id":8,
+      "name_skin":"queen",
+      "skin_url":"https://lh3.googleusercontent.com/0ndtF2w5_qfXo4SXyQqi4cb485EdY4qIUX-f6jf_c8OGChJ7RaRtBwySEUJmajEZrNbLTFKslnUjSoQkAjALDCuvzqJW898HPq4e",
+      "view_skin":"https://lh3.googleusercontent.com/fISWB8gaUEbTvdC9V7USCB0Qs2nOSBVKD7_aLZMwmE13ctB_fJrxsbgbSKtLd6OaRDtg6IDu2wOrtu53HN5OmZ126bWKHI3eLh5v"
+    },
+    {
+      "id":9,
+      "name_skin":"Queen Little Kelly",
+      "skin_url":"https://lh3.googleusercontent.com/G0BrXGqf6iSoIKzkmwPvDkOD5yJ2-eI7iys_eIZeWiWfVeAcsM2Cs-70pNTsYFffHiorSfuF38HBtoIQlvgJjg",
+      "view_skin":"https://lh3.googleusercontent.com/FPPY2u1wwyTCGgHMcGrpgiWWKjU9JZYcHVpXS412pjSHkwOvFADPCsB0v3DbXrN6VQgWuH4rtqisgASM8fZigw"
+    },
+    {
+      "id":10,
+      "name_skin":"Loki Fan Girl",
+      "skin_url":"https://lh3.googleusercontent.com/wLCo3LuHgRgCTFGoxLlBagB4TMtUjbLHn4z6pEwrtKEjhY0kytC3e15wkibWoYqq4ZuzwAW7Jozbo0K7Z0jqZ2gOpx-7A02j7-g",
+      "view_skin":"https://lh3.googleusercontent.com/6_dvgBHajngSxla21PpoTha_eEKKodscbJ7g4-l9xg4S6KPKAC7kuEaoUP0XCwDDZtY-cPAQsrOl-D-wtmdJMFCjq4HrpUD8ekk"
+    },
+    {
+      "id":11,
+      "name_skin":"Mar Queen",
+      "skin_url":"https://lh3.googleusercontent.com/h8yMvwJn3j1P9UVKLeDnQHrL9X6m4CfXDn0m2Z14QMm-98umH6vvmOBI15jS8bOZNhRn6ZikaeJdcltJsOZ4WQ",
+      "view_skin":"https://lh3.googleusercontent.com/AUrm2WCHGHquqNUp5AudtWRKhbxBDMPEZkmiYngoIwzToWArt4IaXpOhh05Qe13WRT-hjDLhntWYWfV68vCP"
+    },
+    {
+      "id":12,
+      "name_skin":"fire queen princess girl",
+      "skin_url":"https://lh3.googleusercontent.com/UYth_OsuzCLzuyJPD-6cEbgmeeJDd3yFD3qnU6kvftslRj4c4uWlohdPOZyNTotIqyteaWhUdd3oCXSWCRo-yQ",
+      "view_skin":"https://lh3.googleusercontent.com/SQ5-egUOmA8mDvfYpzWNz3lIrN9Fs9ZCBcw86i-zk1pTXtprYkl9PYw1VMz-b-Zj_c8-LCKWZQ_aapsAPkH6"
+    },
+    {
+      "id":13,
+      "name_skin":"Ladybug Queen",
+      "skin_url":"https://lh3.googleusercontent.com/kKVWFY5FZs0ngKui_wuu0tlXEw_XuLc75QitZMq2FTSaNjSCZsClSo_Fd9eG1joi6J9wQHR5c8Z9YYzpdlQB",
+      "view_skin":"https://lh3.googleusercontent.com/R-5-ogUrIDHUTrZfys3t6n99ePWyCOgohKZN1ekbFCstGGBG558EdSV_hWdbRbzDEtu9skCL7Ib5kfIhbnEI"
+    },
+    {
+      "id":14,
+      "name_skin":"QUEEN",
+      "skin_url":"https://lh3.googleusercontent.com/rmGDPAaEIpm1Fmwav8dcDiE9bZCQaT57BtiN5zYVTRUqksyWvvcrxwnRtKr5UMjt_tYe6kg-xqoc5pB-qvnujMONuiL3I0p0GQCl",
+      "view_skin":"https://lh3.googleusercontent.com/4JX3taTxEc8QjFLhY-WSKy7N4LPbb6DC_rW91fl37j2zM1DwX_RQkAx6LcPZG26bC3nPrOOscROcDHd4y38_cGbWIoSxy8EaDDw"
+    },
+    {
+      "id":15,
+      "name_skin":"Night Queen",
+      "skin_url":"https://lh3.googleusercontent.com/vGaov3vlA3dUPSEMz52SsJrRrYcNk1xk5LYCYheFWIibfI7Q_RKDewk_Ds11gaTGkQVRTNxVjwhv3Jfz-C69NQ",
+      "view_skin":"https://lh3.googleusercontent.com/pzw6i8tN_RCjLEnQ_Ab6dYMz-vHgxpdHbXysILHWYvwmm8J5pvsRc6spDO3f7Zj73m7tYj0skQhxi28HxeGuyw"
+    },
+    {
+      "id":16,
+      "name_skin":"sexy and hot queen",
+      "skin_url":"https://lh3.googleusercontent.com/fT3IPri_8cyD8PT7AqaXPnse4grxYKRd3wYwNZVnSi39QVEfT0qVJKObZXaJ0mjtTMHiGLLP6o8v7iWusc_lHw",
+      "view_skin":"https://lh3.googleusercontent.com/LBG6nXQjBTg63PYT4QfHzpzcU6HNEwuYH6-Zqzydnpgv378qtDiumZNT-q-4yGBmxJZR-2ajFY7D2FrmPoQDng"
+    },
+    {
+      "id":17,
+      "name_skin":"Queen Girl",
+      "skin_url":"https://lh3.googleusercontent.com/dFo3Kx2ML4q5CL-BzEcPuRwQ3H7XGTA2K_z6VYRG0eK8EOc5Y4LN1gmkAeWfTldYeykYqbBQSdNy6Il4ueVCPbFXm_gBzwO5LvM",
+      "view_skin":"https://lh3.googleusercontent.com/e2GvFaaPdYuzX79LtJBORe1AyYvIoDlQaJmzTVyupdhP8rcg1A_UrJ5Nvb2vzBg3h_Vi2d0AIbWGaZ8pWctLTrLafPgJcZToxPg"
+    },
+    {
+      "id":18,
+      "name_skin":"cute queen girl",
+      "skin_url":"https://lh3.googleusercontent.com/7ZSFgRATmtjA5me13XyxuYntKgPNxhBx37aT80J9Fiylp5pEFzSEDW78HcLwgQ3HNI6MyVonvWb3CQAq6TkQ-sGhQKACIuiAaA",
+      "view_skin":"https://lh3.googleusercontent.com/ORHbRY8BWIf8nhzMJBPBgLmV1eO8_bX86QB9qYRgsQ4vUC9DuVYNeMpSeszDYO1e414m8lMoZl7J5gkd7Ob2NO7EourPOD8Yf4wl"
+    },
+    {
+      "id":19,
+      "name_skin":"queen",
+      "skin_url":"https://lh3.googleusercontent.com/CSa9hbSmyq7wyE3Y4TTgtY3VhI-W5nihO6a2-imoP3Y0lv2DAyEEhzIz7BSb_j4kB39rd7czOLSFbbiE4Pf-",
+      "view_skin":"https://lh3.googleusercontent.com/qzt40ZkRNiq5ZBpZ3EOhQ-kKFiunlFZcaugt4TWse54lClIJ7uXP7SGQSXc53PG5Kjp7Oo9zmR5sGzb7iWWZ5Q"
+    },
+    {
+      "id":20,
+      "name_skin":"unicorn queen",
+      "skin_url":"https://lh3.googleusercontent.com/z99hrVmWoj98Pwp9_yJeqJ6NbWm_BkAXPnD47wu0QLTIZvU2eMJYtvoVAdS9CinFkMUDgqQY9ghze6cYQ0_OlQ",
+      "view_skin":"https://lh3.googleusercontent.com/weIo6unlJ3otddpUYIURW1PbxYyzLgm0oyiur3pGPdY2fZbiZTL9e2EwMk2HrTpMDzcf4rrCZrVmwceeSMTjps0"
+    },
+    {
+      "id":21,
+      "name_skin":"vampire queen",
+      "skin_url":"https://lh3.googleusercontent.com/C-6G_18Pn3kFf50OwsoWvwuMQnBXY6XoNDDbYj1uCI-84b4w-lDKycARzjFDclRDxQOGcCbijibyQGDdxsgX",
+      "view_skin":"https://lh3.googleusercontent.com/wOR0NXQ2OYa65LEaRAI7hfZADktLAxdGAy9jXGe2XFMNMsvTWNEI9SL4RyqmpIszJhGvAFJ9KVCUopZOKxMpT5o"
+    },
+    {
+      "id":22,
+      "name_skin":"Girl Queen",
+      "skin_url":"https://lh3.googleusercontent.com/Flp5IiRv6AuAeg3R2xOI1tlW-SebLl8zvX-WJV4_FiBiLlJMXuZ1xaA9y8mnuaC8aiOSV0Ngd6AaB8AFGDdDC7VDdPAAOec1fw",
+      "view_skin":"https://lh3.googleusercontent.com/VfcSI3IjgT9n3YWhxR4onVCs2LdPe35tmBCIsZftHRMImoM7DoYbr6nG36H9SevkP1krVl2kGo3LxjB-GJQpHPSejLihV92Awlk"
+    },
+    {
+      "id":23,
+      "name_skin":"Demon Queen",
+      "skin_url":"https://lh3.googleusercontent.com/_xM3X7qSyCj0tMSzvt0u1kL0QkyfYu5IkUJiCWAdMU1A1ApyXS6pwtJjNXc6alFhXmJ7CR0_av7VkV5AoGa7mQ",
+      "view_skin":"https://lh3.googleusercontent.com/uXFub7w4iWiGL5tI8hZKFH64_dnYAXbBtyfJ0XhRrWiRTPJ-XPOF1QU3MJrgCpdMPwBDi0KE-IVdZlgaKikSaQ"
+    },
+    {
+      "id":24,
+      "name_skin":"Momoko",
+      "skin_url":"https://lh3.googleusercontent.com/FSpWknkeY5cCFDFwPgCEoI5XHtM7C6dEJotyyNh3JWvsm5sAtk83ETuYL6k4oTjk7YorrQzkPoCoPZD7A1RthVyki6ypCY4Q2rX2",
+      "view_skin":"https://lh3.googleusercontent.com/YDj_rhaD0vRFDLS1p_r5wjnFOlWNdCTnsf79wGKxMuHI21H9hzgWQWzKg4VDs_l93aTkb2Ae_hdyKJYaH2OB0OUE_9JjWrCaUzUb"
+    },
+    {
+      "id":25,
+      "name_skin":"Harley Queen",
+      "skin_url":"https://lh3.googleusercontent.com/_BclXqeiaCkmClOhwBXO7BH0K2yKiJzYRGT-eftI3odSWC95rBcqkpNRDdNCbsNx_5uMnI_bkiL8Rf-iui4jfw",
+      "view_skin":"https://lh3.googleusercontent.com/PSmh44ayGg9QBRnE7AyQfytk5IMXVcEQEKx967hrvEWs-LAOTqynL5u2eQFw7U1iAhOu6pJtxA6am7k6cHAhMuM4HBpz6Vrtetk"
+    },
+    {
+      "id":26,
+      "name_skin":"Ender Queen",
+      "skin_url":"https://lh3.googleusercontent.com/AZoyO7EpC8pOeZ5h11UeZM9eJDLLL-X00x0MFqWYh3m22em2tnlJDknsgMclv6ndJIUvczwJi5lZu8Cvbrf96Q",
+      "view_skin":"https://lh3.googleusercontent.com/sjsZ4pEu_5rEZAda0j8jqo_0tSMIkKZJI_-eYCHwfV-XUEBVlLSPD1RTx53hjtpLAIkEeYFnUs0By6VAe8taJAM"
+    },
+    {
+      "id":27,
+      "name_skin":"Queen Ember",
+      "skin_url":"https://lh3.googleusercontent.com/rIdjeUm6ZPfsjJw9G_YJ7OLexBnAOd8kkyysm3sA9GRzLZ4_4sN-1zGU0AJZSYUJUlcJqhCa9iazAI7RH3E4",
+      "view_skin":"https://lh3.googleusercontent.com/ri4oxq_005aL_CWE_PBMFnArIL7HxFu2gNbbzSx8ij1-550sHu6JDugthhnxu6ooHXleJ_ocvG8o9aL7uaGo"
+    },
+    {
+      "id":28,
+      "name_skin":"Queen",
+      "skin_url":"https://lh3.googleusercontent.com/nGfb3v2KXgCLN1qWio2aQoY_FBJ0NpLfhZNQTd0831ftiUfqWi4gVkO2yNtvUDALNJSFtohEiG53dnVePLkr",
+      "view_skin":"https://lh3.googleusercontent.com/OxuzE36_oZHU8o_45SUT29vGzwIv9m38bewKHBWavDtp04veT8ZevDXByZhh2eQAoYjIie2oGHDqHncCPiun"
+    },
+    {
+      "id":29,
+      "name_skin":"Mermaid Queen",
+      "skin_url":"https://lh3.googleusercontent.com/lJ0AlOG5lod1EqC00xf1ySxqAnG9Ry_s_pbrPXM2oC4MWb3LyQfdwbooAsVfNj80DvMIoH5Z7VJS_e3lpd0",
+      "view_skin":"https://lh3.googleusercontent.com/FDucl29OVyQ1KW5y1yHSwBpqcl-5vbmXcmwBTdGhO8-6iMr1WDTTl129gYawTcn0MgtablR1RkNPmDisB6q5VQ"
+    },
+    {
+      "id":30,
+      "name_skin":"queen bee",
+      "skin_url":"https://lh3.googleusercontent.com/iMnphS9Tri3MVB8ni1CpQ_9BuOGrGJulc1W77O2IJv-bv4HrLzBr1Yx8uQvMoNASe3mISJuSTU_-cCnSKzwg",
+      "view_skin":"https://lh3.googleusercontent.com/QW9s-0GJjlR695_zQ4juufG5oT5A7vjjkrkGe7VpbaOPBnLQi_9w3k2tR8qoYVQPWcjmcn5KeuihBCibIcL3YA"
+    },
+    {
+      "id":31,
+      "name_skin":"ender queen",
+      "skin_url":"https://lh3.googleusercontent.com/o1k2yohONDy54xsAoEs3yUNeug8pvTPMqo4nM6E427F2TpDaiV1mSAH39Bun61ymmY9czs6XlFEiC1aImH-FmQ",
+      "view_skin":"https://lh3.googleusercontent.com/SKMLR3oiBKEldSYj5gE9oPwEFN5P9WDz2SgWfEjMCN5d9cJpxnOtP87uy1sQA6pqprmzDLO91pKb3RiMO6qZ8g"
+    },
+    {
+      "id":32,
+      "name_skin":"Pregnant Queen",
+      "skin_url":"https://lh3.googleusercontent.com/MmYGrsR6LyQXRuJox0TbOiBYZMOe_GGAmreIChhHzZIqUL0HZrTmZ4ka1Y5SUneFO8OThwNLl-2ZZqKtzZ26xw",
+      "view_skin":"https://lh3.googleusercontent.com/QrCjvMeIWsXdisx6J-v_ENcPkL4mLAUttQy2RsxiM_Y6yhweuXPZ_xOtdhihWOM_YZ6HZ800g6EEEBKkYwoa"
+    },
+    {
+      "id":33,
+      "name_skin":"Queen",
+      "skin_url":"https://lh3.googleusercontent.com/LE4osjlbrcojC0keAqJiKmNpqlGBx8F9hhMdxVm37Skz9e_FAhw1mye-CtL_dfvnIYoDhjC6DLKJsWfAFsbAqI-o4MBIbNxGt528",
+      "view_skin":"https://lh3.googleusercontent.com/9hooOL7y2CALEpzo_4LjulT5G1bdLrI94fwRZpO59s31aeQOunk2ctwh4-AqKZKoiYYkxY1CeMYovpNYs5P1mWt7c2UzL0PT-HUV"
+    },
+    {
+      "id":34,
+      "name_skin":"kitty gamer",
+      "skin_url":"https://lh3.googleusercontent.com/S_cBCXZEG-Zy1zzfbyJrqlQsfkDkocWrdjer_vMSaOZ1jbULGP21DQOqj9cD9YP71LRIdfKX3Lmk1Hf9sLt8-w",
+      "view_skin":"https://lh3.googleusercontent.com/f6BoEowmDKS5O9wv_650VI-BDm0g14UN1K1eDRwyznFpeIRv1inpFhLCR5_1e_P4T1CGt_ZCzXySq7S1-4Q3ltE"
+    },
+    {
+      "id":35,
+      "name_skin":"Vampire Queen",
+      "skin_url":"https://lh3.googleusercontent.com/00jMTfzPn_t1xgwsq94qwNzvVuMBqZRdsvEddqCuOzynr04c8NRfXGrCRV_IFe3sYAFMIw2iiO558O13-_hgcw",
+      "view_skin":"https://lh3.googleusercontent.com/1KoKBcpHwhTovqxywYV3z-29QdluXnrX5Dmai2duZjlPYMe-F16OGebnw8XXEF2LXC6syZNIWA3evxcGGSDHcA"
+    },
+    {
+      "id":36,
+      "name_skin":"Snow Queen",
+      "skin_url":"https://lh3.googleusercontent.com/piM7IU6ATrSwKKDVLn9pCFaoI4LYRf5sk_4ZnBJu2FqoGjkZL5FueWoxm12UyTEb-aHr6_O87UISnFXtMrYXaw",
+      "view_skin":"https://lh3.googleusercontent.com/jaTnBgevEtLbGWEfEbNIZUFZWJm4dlFw7hn3krqvNyZ1yOenQFWprI56wCGPnIns12XTOUrv5LmJio31Z55Ccw"
+    },
+    {
+      "id":37,
+      "name_skin":"Storm Queen",
+      "skin_url":"https://lh3.googleusercontent.com/2VMOuLEsIpR-wNz_tVzOq3ruNhyVP4ceUMuzM7BbPbNuxPtOGZbH9wUPVwwoTzHpW8Hmm_5TYxNUlDnNPnREW8wBdw6ZDFnqMzyp",
+      "view_skin":"https://lh3.googleusercontent.com/c-Y_Q_MSqmH0iBjlYUSWrTHjcwR8awPSWDSP8_6pJGevvAKqCwQRGvL6eCIND2XkK1TKTMAGYuDaugnXrlQW9oQJIk0Xb8NmKC4"
+    },
+    {
+      "id":38,
+      "name_skin":"funny queen",
+      "skin_url":"https://lh3.googleusercontent.com/OPBNnjnbA4p-2wNbbHpVSOzvd9w-NCr3H0QuzlVC_EMRG2MVIOCBbUGdXN_EhBwvTLYF50CRxR37KIv-mF_DVQ",
+      "view_skin":"https://lh3.googleusercontent.com/la7GgWfhCUdny9JtNnB_hyjkfZ9eJx1jTD9ZySioT4yI5YJiEWDrbiw3ybTMwFoAj4KFGaTY3A61Yn7oDAze"
+    },
+    {
+      "id":39,
+      "name_skin":"queen",
+      "skin_url":"https://lh3.googleusercontent.com/EoeVy9vytv4T1zSBi1830nYGl8r6ep_6FZIMM3YIrCLCRvK_h6pwgzKNr96cG6MnWpijFByOKlQdnqFaG4PlvyB-HXJNa70jlXUe",
+      "view_skin":"https://lh3.googleusercontent.com/M3YR_pQ9nJlXu9ZiZqe2F6b_AJ8stA5itktHZqlWH0_YRjKV8nkohiQWlWrsn8XGs8RirOgVrDapU7ettjnB6u9PLHWzEDssnorN"
+    },
+    {
+      "id":40,
+      "name_skin":"Demon queen",
+      "skin_url":"https://lh3.googleusercontent.com/PQm6HuhuAUQuudg7TBXdHC05837-5YssAXnliw79PKm1ARXQ-1Fg2ccnA-GCbZ-34D2DZQfMT9c0mp5ggiyc2hEbnE7sMj8Zfw",
+      "view_skin":"https://lh3.googleusercontent.com/5rKmPtfe4KQAJAfBzCNB2MCnTEEmZpBFhoGZB7bBhBQsAGnRY2WGhj0bpyk5DCL-cEK_Cnp-AbduweZBWurPincSpfzikTWWSH8"
+    },
+    {
+      "id":41,
+      "name_skin":"flower queen",
+      "skin_url":"https://lh3.googleusercontent.com/PDJU72in6B04btweUIUOC5fJCtef_XPqdV2wQ-TpOX6p_KYlnjtjrGU-QqviX0O8cfMOX97L97E2ppJzxCkdRg",
+      "view_skin":"https://lh3.googleusercontent.com/ZcTvNJT-eo-qZ9kbkQnP0n2Kbxmsqj2rSDa1jXjY2gsfjCU-Sb5419VdVgPss_s5KWh-vdV6ab09gHRo7dO4"
+    },
+    {
+      "id":42,
+      "name_skin":"Audrey Queen",
+      "skin_url":"https://lh3.googleusercontent.com/sq3TxiTPKqXYj1aA7FzosDKTmMJPNf4TMKpMNV2oDeNtrNDMniEpxYChkr8zYkejdaVTnF_YyHWZ6V4BrjSLqA",
+      "view_skin":"https://lh3.googleusercontent.com/kaWwkgojQq0I9xz0-KGc3Af0rpy4OEr0GH8P4jeVLA2qzDa9gDrQ0EftsvR6PRhII9Bqg6dp4qk47sgP6B-K2w"
+    },
+    {
+      "id":43,
+      "name_skin":"lava Queen boobs",
+      "skin_url":"https://lh3.googleusercontent.com/mExzopkXniS08DEHyDJpSSwATYpxijKLLglAkgUyKy12eb5gNOIcSvJO3oe95DN2JM2DjVkIYR_fw9X2GXkjJuYtKQeiMfxnIKSz",
+      "view_skin":"https://lh3.googleusercontent.com/X7QRFRXLaR5BMmAMxMUVUrZ4OrJcWUaKRf5GvwqEfYXmuYQPw5yUAKzs2g-2yUKqTSiQk66PWyJm60zOtgua9zzgP_MCwbWZmQ"
+    },
+    {
+      "id":44,
+      "name_skin":"queen dogy",
+      "skin_url":"https://lh3.googleusercontent.com/KU7lZSa6SfeEVfsVyE1vIybbcxEDJZFdSAydmBeyFWMG_h29mSkne9xe6zm_u0bwVg8xZ5VHLZGSeA2LfCVjvTvaJpjZ6hWBRw",
+      "view_skin":"https://lh3.googleusercontent.com/tHgHBj7XZ4S__2fAKkywrRty6yq3VZc4eAukNv_19VBn9EGEPsiClzyCzGRqaF6m8YhD-Bwijs8LHRBD2u356kisP6-FoVr6NXU"
+    },
+    {
+      "id":45,
+      "name_skin":"Queen Nemria",
+      "skin_url":"https://lh3.googleusercontent.com/Aprl_VfNLUb1197gwlMTJSE38WW1lQoexi8UnltMYszaIWyXM2IDyIZE7IDr-v7Xf08xFNzMumCyMdK6WQLIudZSZ-vXmm0Li-8",
+      "view_skin":"https://lh3.googleusercontent.com/ls7fxwZbTCii1GDGPdzvrqoXdurHjKomAQFcCgZDwlQC_3IG3Eeyu6xFdtlWh5qZhlVEPhMb0to7wA14ly4kSi9zsCEdJpl_5g"
+    },
+    {
+      "id":46,
+      "name_skin":"fire queen",
+      "skin_url":"https://lh3.googleusercontent.com/o_oe8ArVHz8fVmmf1JtkychJkrfHd6-WfGUdEoot2E6Dep5rzLJSum4nHPzkOWNYxT_XjI6IqVF4dh2UF9n7ly33XErp9sDCg7w",
+      "view_skin":"https://lh3.googleusercontent.com/D3b3e65BhfgSxSl5jbi_IVflVWVxzdAFpCgmgKOpyxoUbHo8CIVePqkB1rsIT1m4NJCbSlmo8lWn5Z4R0CshC9BoKx5Jp8lzC3w"
+    },
+    {
+      "id":47,
+      "name_skin":"blue queen",
+      "skin_url":"https://lh3.googleusercontent.com/2VMOuLEsIpR-wNz_tVzOq3ruNhyVP4ceUMuzM7BbPbNuxPtOGZbH9wUPVwwoTzHpW8Hmm_5TYxNUlDnNPnREW8wBdw6ZDFnqMzyp",
+      "view_skin":"https://lh3.googleusercontent.com/LJv-nylPfLpLnbA7XYoF60hV4pAzXIJgN78JJLHAtthOJgzgmckPKFA7J9-XHHE2v1hEroXdIpXSR9tDqjm8imO_ITtnQfQ6zlg"
+    },
+    {
+      "id":48,
+      "name_skin":"Snow Queen",
+      "skin_url":"https://lh3.googleusercontent.com/5mkiIM0sneB6GzKW--JdByZV6RQaKAdWAKCKluybkxKsHm1zz_OJvZHhThZluyUPn3i0dJkMToqBpPA64UYs72Q5z3QBYwf-Kg",
+      "view_skin":"https://lh3.googleusercontent.com/X0d85y6biLz618VHvtytsOFY3VN9ouwFsx-ZhtAd525pfG4KAI4fBD7FQB2AmyIAS1BwhB7OTc53OYJLr9vrcoBHvp_WccW20LU"
+    },
+    {
+      "id":49,
+      "name_skin":"Queens skin",
+      "skin_url":"https://lh3.googleusercontent.com/_3j-Qgsz9s3zzdx8MdxwKeAlpyoBGJLiN4g2oipFfZIeOWyUFDRI0MaTXyQECNuJewxcWpkuykjDBABkdVgB2lk5IZ-y0qAowA",
+      "view_skin":"https://lh3.googleusercontent.com/XT96epb6cBOZPN9FdKC2Irs-dZR5o4kvip4zIxBqrr7lNgF7nlV31cl8aO6W6plIRNay4n9rEHiWCCH1RKDDIO0EjkeBWjrQ_w"
+    },
+    {
+      "id":50,
+      "name_skin":"Darkness queen",
+      "skin_url":"https://lh3.googleusercontent.com/NbUF92WCViRqai5BC28zkr9HGoHeF0wUS4AG5YPVlKxdmlQ2KCDxUfcPqYt1uA0rhBuxqaeeoJhmxqiTjQ--uOhZgg58Jp10Rd8",
+      "view_skin":"https://lh3.googleusercontent.com/hiI4PAU4hoGQrORXcadYfElbe4fFPFMtqt_Dm8Krl0ausd01WJkOpgO6u7gurlxc255tnTAEookQwelDRou9A98_rLxJruB2PCs"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Laser Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Number Blocks",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"The Imposter",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"Furniture",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":6,
+      "name_add":"Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":8,
+      "name_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
