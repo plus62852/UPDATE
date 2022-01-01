@@ -1,0 +1,896 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin1.png",
+      "view_skin":"file:///android_asset/1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin2.png",
+      "view_skin":"file:///android_asset/2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin3.png",
+      "view_skin":"file:///android_asset/3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin4.png",
+      "view_skin":"file:///android_asset/4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin5.png",
+      "view_skin":"file:///android_asset/5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin6.png",
+      "view_skin":"file:///android_asset/6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin7.png",
+      "view_skin":"file:///android_asset/7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin8.png",
+      "view_skin":"file:///android_asset/8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin9.png",
+      "view_skin":"file:///android_asset/9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin10.png",
+      "view_skin":"file:///android_asset/10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin11.png",
+      "view_skin":"file:///android_asset/11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin12.png",
+      "view_skin":"file:///android_asset/12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin13.png",
+      "view_skin":"file:///android_asset/13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin14.png",
+      "view_skin":"file:///android_asset/14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin15.png",
+      "view_skin":"file:///android_asset/15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin16.png",
+      "view_skin":"file:///android_asset/16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin17.png",
+      "view_skin":"file:///android_asset/17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin18.png",
+      "view_skin":"file:///android_asset/18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin19.png",
+      "view_skin":"file:///android_asset/19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin20.png",
+      "view_skin":"file:///android_asset/20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin21.png",
+      "view_skin":"file:///android_asset/21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin22.png",
+      "view_skin":"file:///android_asset/22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin23.png",
+      "view_skin":"file:///android_asset/23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin24.png",
+      "view_skin":"file:///android_asset/24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin25.png",
+      "view_skin":"file:///android_asset/25.png"
+    },
+    {
+      "id":26,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin26.png",
+      "view_skin":"file:///android_asset/26.png"
+    },
+    {
+      "id":27,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin27.png",
+      "view_skin":"file:///android_asset/27.png"
+    },
+    {
+      "id":28,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin28.png",
+      "view_skin":"file:///android_asset/28.png"
+    },
+    {
+      "id":29,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin29.png",
+      "view_skin":"file:///android_asset/29.png"
+    },
+    {
+      "id":30,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin30.png",
+      "view_skin":"file:///android_asset/30.png"
+    },
+    {
+      "id":31,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin31.png",
+      "view_skin":"file:///android_asset/31.png"
+    },
+    {
+      "id":32,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin32.png",
+      "view_skin":"file:///android_asset/32.png"
+    },
+    {
+      "id":33,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin33.png",
+      "view_skin":"file:///android_asset/33.png"
+    },
+    {
+      "id":34,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin34.png",
+      "view_skin":"file:///android_asset/34.png"
+    },
+    {
+      "id":35,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin35.png",
+      "view_skin":"file:///android_asset/35.png"
+    },
+    {
+      "id":36,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin36.png",
+      "view_skin":"file:///android_asset/36.png"
+    },
+    {
+      "id":37,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin37.png",
+      "view_skin":"file:///android_asset/37.png"
+    },
+    {
+      "id":38,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin38.png",
+      "view_skin":"file:///android_asset/38.png"
+    },
+    {
+      "id":39,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin39.png",
+      "view_skin":"file:///android_asset/39.png"
+    },
+    {
+      "id":40,
+      "name_skin":"Ninja Konoha skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/skinnaruto/skin40.png",
+      "view_skin":"file:///android_asset/40.png"
+    },
+    {
+      "id":1,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin1.png",
+      "view_skin":"file:///android_asset/d1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin2.png",
+      "view_skin":"file:///android_asset/d2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin3.png",
+      "view_skin":"file:///android_asset/d3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin4.png",
+      "view_skin":"file:///android_asset/d4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin5.png",
+      "view_skin":"file:///android_asset/d5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin6.png",
+      "view_skin":"file:///android_asset/d6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin7.png",
+      "view_skin":"file:///android_asset/d7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin8.png",
+      "view_skin":"file:///android_asset/d8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin9.png",
+      "view_skin":"file:///android_asset/d9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin10.png",
+      "view_skin":"file:///android_asset/d10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin11.png",
+      "view_skin":"file:///android_asset/d11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin12.png",
+      "view_skin":"file:///android_asset/d12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin13.png",
+      "view_skin":"file:///android_asset/d13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin14.png",
+      "view_skin":"file:///android_asset/d14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin15.png",
+      "view_skin":"file:///android_asset/d15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin16.png",
+      "view_skin":"file:///android_asset/d16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin17.png",
+      "view_skin":"file:///android_asset/d17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin18.png",
+      "view_skin":"file:///android_asset/d18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin19.png",
+      "view_skin":"file:///android_asset/d19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin20.png",
+      "view_skin":"file:///android_asset/d20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin21.png",
+      "view_skin":"file:///android_asset/d21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin22.png",
+      "view_skin":"file:///android_asset/d22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin23.png",
+      "view_skin":"file:///android_asset/d23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin24.png",
+      "view_skin":"file:///android_asset/d24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin25.png",
+      "view_skin":"file:///android_asset/d25.png"
+    },
+    {
+      "id":26,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin26.png",
+      "view_skin":"file:///android_asset/d26.png"
+    },
+    {
+      "id":27,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin27.png",
+      "view_skin":"file:///android_asset/d27.png"
+    },
+    {
+      "id":28,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin28.png",
+      "view_skin":"file:///android_asset/d28.png"
+    },
+    {
+      "id":29,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin29.png",
+      "view_skin":"file:///android_asset/d29.png"
+    },
+    {
+      "id":30,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin30.png",
+      "view_skin":"file:///android_asset/d30.png"
+    },
+    {
+      "id":31,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin31.png",
+      "view_skin":"file:///android_asset/d31.png"
+    },
+    {
+      "id":32,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin32.png",
+      "view_skin":"file:///android_asset/d32.png"
+    },
+    {
+      "id":33,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin33.png",
+      "view_skin":"file:///android_asset/d33.png"
+    },
+    {
+      "id":34,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin34.png",
+      "view_skin":"file:///android_asset/d34.png"
+    },
+    {
+      "id":35,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin35.png",
+      "view_skin":"file:///android_asset/d35.png"
+    },
+    {
+      "id":36,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin36.png",
+      "view_skin":"file:///android_asset/d36.png"
+    },
+    {
+      "id":37,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin37.png",
+      "view_skin":"file:///android_asset/d37.png"
+    },
+    {
+      "id":38,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin38.png",
+      "view_skin":"file:///android_asset/d38.png"
+    },
+    {
+      "id":39,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin39.png",
+      "view_skin":"file:///android_asset/d39.png"
+    },
+    {
+      "id":40,
+      "name_skin":"demon slayer skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/demonslayerskin/skin40.png",
+      "view_skin":"file:///android_asset/d40.png"
+    },
+    {
+      "id":1,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin1.png",
+      "view_skin":"file:///android_asset/t1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin2.png",
+      "view_skin":"file:///android_asset/t2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin3.png",
+      "view_skin":"file:///android_asset/t3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin4.png",
+      "view_skin":"file:///android_asset/t4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin5.png",
+      "view_skin":"file:///android_asset/t5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin6.png",
+      "view_skin":"file:///android_asset/t6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin7.png",
+      "view_skin":"file:///android_asset/t7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin8.png",
+      "view_skin":"file:///android_asset/t8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin9.png",
+      "view_skin":"file:///android_asset/t9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin10.png",
+      "view_skin":"file:///android_asset/t10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin11.png",
+      "view_skin":"file:///android_asset/t11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin12.png",
+      "view_skin":"file:///android_asset/t12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin13.png",
+      "view_skin":"file:///android_asset/t13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin14.png",
+      "view_skin":"file:///android_asset/t14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin15.png",
+      "view_skin":"file:///android_asset/t15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin16.png",
+      "view_skin":"file:///android_asset/t16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin17.png",
+      "view_skin":"file:///android_asset/t17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin18.png",
+      "view_skin":"file:///android_asset/t18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin19.png",
+      "view_skin":"file:///android_asset/t19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin20.png",
+      "view_skin":"file:///android_asset/t20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin21.png",
+      "view_skin":"file:///android_asset/t21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin22.png",
+      "view_skin":"file:///android_asset/t22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin23.png",
+      "view_skin":"file:///android_asset/t23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin24.png",
+      "view_skin":"file:///android_asset/t24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/tokyoghoul/skin25.png",
+      "view_skin":"file:///android_asset/t25.png"
+    },
+    {
+      "id":1,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin1.png",
+      "view_skin":"file:///android_asset/s1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin2.png",
+      "view_skin":"file:///android_asset/s2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin3.png",
+      "view_skin":"file:///android_asset/s3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin4.png",
+      "view_skin":"file:///android_asset/s4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin5.png",
+      "view_skin":"file:///android_asset/s5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin6.png",
+      "view_skin":"file:///android_asset/s6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin7.png",
+      "view_skin":"file:///android_asset/s7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin8.png",
+      "view_skin":"file:///android_asset/s8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin9.png",
+      "view_skin":"file:///android_asset/s9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin10.png",
+      "view_skin":"file:///android_asset/s10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin11.png",
+      "view_skin":"file:///android_asset/s11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin12.png",
+      "view_skin":"file:///android_asset/s12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin13.png",
+      "view_skin":"file:///android_asset/s13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin14.png",
+      "view_skin":"file:///android_asset/s14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin15.png",
+      "view_skin":"file:///android_asset/s15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin16.png",
+      "view_skin":"file:///android_asset/s16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin17.png",
+      "view_skin":"file:///android_asset/s17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin18.png",
+      "view_skin":"file:///android_asset/s18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin19.png",
+      "view_skin":"file:///android_asset/s19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin20.png",
+      "view_skin":"file:///android_asset/s20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin21.png",
+      "view_skin":"file:///android_asset/s21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin22.png",
+      "view_skin":"file:///android_asset/s22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin23.png",
+      "view_skin":"file:///android_asset/s23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin24.png",
+      "view_skin":"file:///android_asset/s24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin25.png",
+      "view_skin":"file:///android_asset/s25.png"
+    },
+    {
+      "id":26,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin26.png",
+      "view_skin":"file:///android_asset/s26.png"
+    },
+    {
+      "id":27,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin27.png",
+      "view_skin":"file:///android_asset/s27.png"
+    },
+    {
+      "id":28,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin28.png",
+      "view_skin":"file:///android_asset/s28.png"
+    },
+    {
+      "id":29,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin29.png",
+      "view_skin":"file:///android_asset/s29.png"
+    },
+    {
+      "id":30,
+      "name_skin":"tokyo ghoul skin",
+      "skin_url":"https://godev3.github.io/modskinanimemcpe/sevendeadlyskin/skin30.png",
+      "view_skin":"file:///android_asset/s30.png"
+    }
+
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Seven Deadly Sins addon",
+      "add_url":"https://rastariski01.github.io/animemcpe/sevendeadly.zip",
+      "addB_url":"https://rastariski01.github.io/animemcpe/seven%20deadly%20%20b.mcpack",
+      "addR_url":"https://rastariski01.github.io/animemcpe/seven%20deadly%20r.mcpack",
+      "view_add":"file:///android_asset/ad1.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Demon Slayer addon",
+      "add_url":"https://rastariski01.github.io/animemcpe/Demon%20Slayer.rar",
+      "addB_url":"https://rastariski01.github.io/animemcpe/Demon%20Slayer%20b.mcpack",
+      "addR_url":"https://rastariski01.github.io/animemcpe/Demon%20Slayer%20r.mcpack",
+      "view_add":"file:///android_asset/ad2.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"Tokyo Ghoul addon",
+      "add_url":"https://rastariski01.github.io/animemcpe/Demon%20Slayer.rar",
+      "addB_url":"https://rastariski01.github.io/animemcpe/Demon%20Slayer%20b.mcpack",
+      "addR_url":"https://rastariski01.github.io/animemcpe/Demon%20Slayer%20r.mcpack",
+      "view_add":"file:///android_asset/ad3.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":1,
+      "name_add":"NINJA KONOHA MOD ADDON",
+      "add_url":"https://rastariski01.github.io/ninjakonohamod/Naruto_Beyond.zip",
+      "addB_url":"https://rastariski01.github.io/ninjakonohamod/NARUTO%20B.mcpack",
+      "addR_url":"https://rastariski01.github.io/ninjakonohamod/NARUTO%20R.mcpack",
+      "view_add":"file:///android_asset/ad4.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"NINJA KONOHA MAP",
+      "map_url":"https://rastariski01.github.io/ninjakonohamod/Map%20Konoha.zip",
+      "view_map":"file:///android_asset/map.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
