@@ -1,0 +1,456 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"MORE APP",
+      "image":"file:///android_asset/play.png",
+      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Creepy Entity",
+      "skin_url":"https://lh3.googleusercontent.com/xk7YQXYs0--6HFN_kIXzBDMhROnzN6p08ZelcQrmkyBkbOtcVMj0as-j-33fJNcZ_Y5fAqQ3EJidTYFJl3Wj",
+      "view_skin":"https://lh3.googleusercontent.com/M_jG85fx54ZoWC_LgTZ9Hy_xpLVvlzsa6amnKJGzTJuNi4HXNcS5qiw-qRK4H9_uN04GoZuS0reh9mbc0NyTRg"
+    },
+    {
+      "id":2,
+      "name_skin":"Evil Batman",
+      "skin_url":"https://lh3.googleusercontent.com/neo_cqa85A3rYir7LF9a6grEoV2OSLX2-sQ6iddaZ7M4vPB0bSdaCTqUHxrV3FmHKsdvmTONZ3iYckFNvPaFcGg2W6QQquLx760",
+      "view_skin":"https://lh3.googleusercontent.com/wCVcp6aSqEWtwnD7M0ErLmyVlrYnTIqSfUF97GXGZlj2hbzpeEN7FinK0YdmZkF-uO9qp1q9jOxlpFKtbZ5Fu2N0Dm-RV4bFlHY"
+    },
+    {
+      "id":3,
+      "name_skin":"Rod in Ice Scream",
+      "skin_url":"https://lh3.googleusercontent.com/bizUe26scFCvGyBo5C7GjhKvG8wYuevt3qzVuUk2ZIc0GG9gX58fw35SLDJ07f7LRc0n2wcKHW8C3EtviYE5gWk",
+      "view_skin":"https://lh3.googleusercontent.com/el6NmoTEwPxzDp9K0ePA2pDwQUuED2OKop7Mn4F6BJ6jsqMDrjs03nL4-Jevs6Da0iq8qTev6RczGss3luU2kg"
+    },
+    {
+      "id":4,
+      "name_skin":"Predator",
+      "skin_url":"https://lh3.googleusercontent.com/PNPz64PP7BUd2trlDnnSRMGZ9krcGIucjS3ezZk8TEEQ-POOKdP9tE7IZfaueBzTS6nNTsOhacBcrpKBmNkd9zVaUXTNL8qehA",
+      "view_skin":"https://lh3.googleusercontent.com/-PnMg-Ptch3LESSqvf8768UpXAAxkJcJHYRaSwMoUDjRkqtZndqi1Vn45mc1EQbOG3SslDP2l1cRLd_oLa69NLp5n8Icblj0cA"
+    },
+    {
+      "id":5,
+      "name_skin":"Creepy Ghostface",
+      "skin_url":"https://lh3.googleusercontent.com/H0VyuYicHptySGIYkoqjliQf43SjaXKOI3_yf910GzQFxdldiwOxVhJPic_eTkO82wM40lvHteb2ZSrptsGCdMw",
+      "view_skin":"https://lh3.googleusercontent.com/JZSMIAtZIu6gz5exW8TylVrCJgSRQBIZddOPOo-piN4IulNrBXw9DvDgyYfSaqzSLbspJ06jcRN-hpOeUIBMRk4"
+    },
+    {
+      "id":6,
+      "name_skin":"horror granny",
+      "skin_url":"https://lh3.googleusercontent.com/kcwEEMX5rszgbcvU2V5VjU6SvmwtTVdPN319xUF-wdTU47pKJc_9p-PHy1YWXs0oxni77DxtcdfqDHsRUsPLjg",
+      "view_skin":"https://lh3.googleusercontent.com/hrq2rm9i7hlyff037kl1xo2SbM0IbX1bq-Oc_IlrM2uyIvLsR9ZT-Iy7SIpN32YafR1BbX3mNxCFQx3vEuhh3g"
+    },
+    {
+      "id":7,
+      "name_skin":"Horror Granny Angry",
+      "skin_url":"https://lh3.googleusercontent.com/wYvDHnqt9se2hl-yA0GozFn_oBCQU6fb-1h_Tn9LThaM_asXV0RZOffJM3Psvol40opN9xNuGh_P5LuzAG8-RQ",
+      "view_skin":"https://lh3.googleusercontent.com/3gJjm7HD9Nah1MqylByuqlC-ouv-Rq3ECX4ZMW5E05_5iAB97_9djqzvvRCMG9DyISdij-kpbF4MSjRyWmk6"
+    },
+    {
+      "id":8,
+      "name_skin":"LolBit",
+      "skin_url":"https://lh3.googleusercontent.com/N0eH666wFMahJv2THkQBsOakeSEbBqRlvhVeQYpjnHWaHJ8SKcHMZ2-0YFcN6nHveqzvw_sh46Zat_poLK5u",
+      "view_skin":"https://lh3.googleusercontent.com/zggqGAps1Krtf5layhYsO7ncnHDik8-_EHBuT7PMv4PTXbYtczlAhYHq1-t7soLhDL48e51JgBQ9Z7O7iYIMWQ"
+    },
+    {
+      "id":9,
+      "name_skin":"Horror Monster",
+      "skin_url":"https://lh3.googleusercontent.com/myIP86BRetzc2ez8vsFLXkKxNmBfgR4yLUDQQcJdrXzpwP_7_jydeE9yCJoppexlcIZPqOXly5DxAz-u751BKgY",
+      "view_skin":"https://lh3.googleusercontent.com/4FNd4RDwzg6-9nL5VVVSwoemOW2LyyL32dTxqZ3v4MG0LCpVkTVGz8XGC82qWI3kgo6vH93aCRuFWRhjXf9j_Q"
+    },
+    {
+      "id":10,
+      "name_skin":"horror granny",
+      "skin_url":"https://lh3.googleusercontent.com/Hj7Jdiy-5M2DOFr_mQ7rwOjn0C-GuxEtMSPIAhUsorJixNxqmWr6qOKtDvuv6dAp4ka7pOsBOQ3Q5NEksO2gRA",
+      "view_skin":"https://lh3.googleusercontent.com/RRCEtAFHDQH1HdnO-KUq9z_VqLTbZJFLDGVjcxErpD5iAthEvCeK-GW8F_epz9sAz6Uxun2aOzScFG6ouQV3"
+    },
+    {
+      "id":11,
+      "name_skin":"Brandon Breyer",
+      "skin_url":"https://lh3.googleusercontent.com/ksTS3A74OGGKawvSt2-TVJdJz1o8G_V0zOi2eCgRR3FrgqeMwxJw3T2zp0-uS3meBgcpEZeY55E-3IH9V6j0gBUhLs4njS8xAog",
+      "view_skin":"https://lh3.googleusercontent.com/4i_F2I4bvi4J1W-vh9FBW0VfFK_tGVNnncjpc4ElGuklafpL3CuduUq3P-4eHyy6yb86Qf42PAJ_OnZBm0V9OFHiwpbE2rIPpLs"
+    },
+    {
+      "id":12,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/6Fv_79AbyBG2fbiTX4jkqfYPVoBmX_hPekOmeXzXVfLI4NvGj3qHPPcu_GEV8-kEVeo7yUN3J-zhBUeob52xQQ",
+      "view_skin":"https://lh3.googleusercontent.com/FlRzIgpIjkFSGATFBRCfreMA1ZRFqRwDdvaY5LurLKAfP4ijqpCnIoBcGyqB8oh9RAhZ1kEmPZDzSp8b09vvj7Q"
+    },
+    {
+      "id":13,
+      "name_skin":"Creepy Leatherface",
+      "skin_url":"https://lh3.googleusercontent.com/0UTmoaqZbvHyuf9AdKIfFd8gnIoDhEQRVflzExJgdwdRlfofEhWcEmJT4mRcRp7ySWa_vNtc-887AkldI_J1",
+      "view_skin":"https://lh3.googleusercontent.com/8Nm63JXht7lt3EKGKGqGeqyZhkU0q2jwx3kU0nTJpOGId6UZB7g88ehm94VD_CmP17pbqkD1avtFKZJytW4yHQ"
+    },
+    {
+      "id":14,
+      "name_skin":"horror girl",
+      "skin_url":"https://lh3.googleusercontent.com/GQlBnRRgf9gVExgX4QkR-P9Nny7bpjcqlREPvlN0gWMp_4zlt6QeWL7GwibUotPBSBr3EOwnh1ZHnWW9uTF2",
+      "view_skin":"https://lh3.googleusercontent.com/NXP742VroFXOoQ0xIb6ldFZAn0AzsB5p7rmP5RnRMTyruEzEFqR4fL7U4Uo0HnJ88X9vcA6_uI2-npuNR1UT6w"
+    },
+    {
+      "id":15,
+      "name_skin":"HORROR SANS",
+      "skin_url":"https://lh3.googleusercontent.com/p3WMtDvKmC7rinccPW5UQFLi3mfBcrbrF2z0ZmqM4Sxhs-ZgO0j6qg3P_m0d0AGtFBtA38Ktu6xAmxNwmJEg",
+      "view_skin":"https://lh3.googleusercontent.com/c_FWv4NSb34w6n6FrjUNS9LMe6OrH_FwGAGIy4N9sxgyG_VEbBTaoT1v5RYzWpQm_Khvh8zUxl42UlDmVsY02g"
+    },
+    {
+      "id":16,
+      "name_skin":"Horror Golem",
+      "skin_url":"https://lh3.googleusercontent.com/jDbjQIYH8nGj6j0AbfMnGnsVyO_D7d1zAsODbQ-agmsJ-6_y5f1uPp4dDbZGTozKpLKdQjfVapIsPO7bAW1E",
+      "view_skin":"https://lh3.googleusercontent.com/NLVhE42VWCxZP_KuuUZzBut4eCw0BMGAK0Saar_yz63yEnJHaX68ZeoSMG9V90iYPHG-lX9AVFRQaJtWr_y7ig"
+    },
+    {
+      "id":17,
+      "name_skin":"horror sans",
+      "skin_url":"https://lh3.googleusercontent.com/7wpeurmWhrGqrkyTAHDUii-rO9KxDyBOAv-4IpZBMXthhAd2Y7EpVe6X-FyJeFKo8z7J3IWuGPQacWlZT1B1O345Bsxa47NbxQ",
+      "view_skin":"https://lh3.googleusercontent.com/McNwNNuxURcol0lgKNAfvsyb10TeuhXUR0MaZTEKJkceNh45kDjS7jWF_EcS5mt0Nqks4US45zAOrb18YQDdFr6-nzj5aPv4tp4"
+    },
+    {
+      "id":18,
+      "name_skin":"horror monster",
+      "skin_url":"https://lh3.googleusercontent.com/QdSaFAzyvk3yNQjTdSFeC5WMW0CVP9nl7V2Xr2ZNW02EH9YCbrW6H1FyTXsulQfxUrF_qKTo_M2S0cD6KMIzf68",
+      "view_skin":"https://lh3.googleusercontent.com/dbk8LjzX-LzRv7yPQZvmibS47ZzewluhYtA4tqznapEiejOcDzF1_nuBCfxqa5Y4WPbH0Jxuo8VU7SWX8Elc"
+    },
+    {
+      "id":19,
+      "name_skin":"Pennywise",
+      "skin_url":"https://lh3.googleusercontent.com/fPadZiyD_h7f0yy2VYMVh7UQSp1Pb6xo7w59bqFyjKsPOUIbkdtYEb-YWCurmB-Lq0EnaeOIOP9dXR-bW7lDwCN5Wq_C6BLvYTOT",
+      "view_skin":"https://lh3.googleusercontent.com/7TodI9iCMbR34--KoILmTKgabcwJwn19vJa8qdMtDtpuEiIiEAwdT1KvNGJkOgb3sPvuAT07KpEzZMCjPOxXMMJQ6kyzP6f7mA"
+    },
+    {
+      "id":20,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/kEjKfbg0Gt4Pc8RcM_tQHLXS6lz1_2QTYb0Cw-pTRdcyKzvE7D9aWunuA72xey-y9dOvc0OP8WDRxHIhRZJxVQ",
+      "view_skin":"https://lh3.googleusercontent.com/B21vDHHCbaGQp9n0e4lkptOdEhCZVrT8giXtTRrR1yAhq0AG68bfw07jpBHt8q89gIYfS5visfmtsGX0blgI"
+    },
+    {
+      "id":21,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/Un7ogXsuMXfdv5zhUtxkm8UR-ecNWEUS_KEaJRDaH0YGlwHH6L83SrCuwdgrrCWJkVvrJ6jdrTqwAB1yZRyF8A",
+      "view_skin":"https://lh3.googleusercontent.com/mXCCCqytgbv9aLGF1ae5wXGzBPIivF-uSYIac7Kxeq6wc_Cthiml_uAYgnrWsU0nxbecD7Z5gLe9CuR-YiOl"
+    },
+    {
+      "id":22,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/gmNdVT8tiTuVMinzbf-p339b6ojs9PpMecALHD2ODcm9av8sVvtx_U-BBT_fGG5H0bNzelSsKJx_1FZvQESZww",
+      "view_skin":"https://lh3.googleusercontent.com/f0ryMsN92yEIlL98Mc-ZUKkRRUDh6r9j97xEVr-UlzitvGpwsZrkqf766Lt8R_XRx9ZLcvoBkFI1oMxFXcMs0A"
+    },
+    {
+      "id":23,
+      "name_skin":"horror girl",
+      "skin_url":"https://lh3.googleusercontent.com/sJFrkxi5-aG3_Ucp0JboWWshISaiq1RgnlNANfO_mN2JwebUMsS71etNWThV5NgydLkQbiRzu1vBMvc3sRgv",
+      "view_skin":"https://lh3.googleusercontent.com/Put3Z9XgABCcncRMypljsNiHE_hUJG5R7CI3SQ3fNT7QPxgWlg3Jwf7ZC2ns3BEyWr3qNfmnhNjIz29bHi-X3Q"
+    },
+    {
+      "id":24,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/ya3GL2d2QSu0dORv0MTXC8aovmAykSySwOf02yvoX5IpPaHACF7HuN2PDdC35wLb0b6prPXbFfudVUqdLLggvw",
+      "view_skin":"https://lh3.googleusercontent.com/v--aD8nkoSuk2eTubPgZtQLTnIhSZziI76tKkS-_Q-ZWRtuMnDiUMhH1yhGBmeoc3js1h37omumhymsRFE4SdA"
+    },
+    {
+      "id":25,
+      "name_skin":"Horror Steve",
+      "skin_url":"https://lh3.googleusercontent.com/kyzU11ufWPO08Rs_wk3lTHGb5_y2qjo-zN2lYd3BGMPIKBsMhNblTUrCUSSnuQU6utGk8Y6wyMWlcSrrh_FJD9vWP5y6zdvJhIA",
+      "view_skin":"https://lh3.googleusercontent.com/O0JB4yvPKhO-gkgxppTL04pGaxrfAbXfKhXkTxSZaGI1NiBYg7lFJMm8kViqICTxYc_iVr1NJ3-j-XNNaf2E2F7v-_Bi-n3hQydM"
+    },
+    {
+      "id":26,
+      "name_skin":"Creepy Brandon",
+      "skin_url":"https://lh3.googleusercontent.com/VEXvrxmd7rmvuQitS4TdAqUnxIk_tqKHjb47-K9pi94wKA_zxrqRkszHEpUsZsZ-3lx5EqP0cZ6MJ8NFees5Ww",
+      "view_skin":"https://lh3.googleusercontent.com/7nUt-M5Je0gPnnwfzTIcKTnZHRZZpZ9WSEnuPPJ9jE7W51SXUN_OPb0h5U5rF5jMGsD7RDr7Yh4N22edK3rbr3U"
+    },
+    {
+      "id":27,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/4eLJBKru2wb2dFP8UeBET8MTrdSx8bhu60hI1M0M0E0L_kfVK9v1nGEKFECDZh9I35886A2dCQRJVEixHs-vFqOWMjeXFj9981s",
+      "view_skin":"https://lh3.googleusercontent.com/ZLFmb0xWonqf_i716mCaMvXB4LPobQ4kbmECGsbx2OCEJEqrNZD3zRnf0OMGNxKVRuzqy94IBniTAHd4lkCzFPRSYZE6a3nsSPAn"
+    },
+    {
+      "id":28,
+      "name_skin":"horror",
+      "skin_url":"https://lh3.googleusercontent.com/lkANVkUFrc0X7r7z1rjez2-MFmyJ-dHZghlatjkQWEZOibNvvuBrXJkIbKeeI0LGfLuFxI2zvE-E9euE_xcKdg",
+      "view_skin":"https://lh3.googleusercontent.com/q2JySIPr4HAi2ZE01C3Tzs7NWvl1W3rRPOkbv7xTKDt_o5_24X9Td04BmSvAPxuo9b504xdIW_WVf8W3ThwmMd_Xrc6_UKlwOkcD"
+    },
+    {
+      "id":29,
+      "name_skin":"ruacer the horror",
+      "skin_url":"https://lh3.googleusercontent.com/MPTVEuc4sku7fS5DcDmegTGFi7_7ZWAZvp9XeFrb5TNvf6h9HCjsz0exF50oGPg8ZfVh_qT2wXnoEz8NzL4gdzOhVbVDbDKIPQ0",
+      "view_skin":"https://lh3.googleusercontent.com/3DSwXnL6kRY9GXr5X39cG5txw0V4RphzabDpE6kDY2C_dwSwC73oY7fXiPopYSSb091zzoOLUKVi9J6B72Cgxa06w1iFXoU4PL8"
+    },
+    {
+      "id":30,
+      "name_skin":"horror sans girl",
+      "skin_url":"https://lh3.googleusercontent.com/LeaNTEhbPGAZLpDc8sPdkRmaU10fpcSHGPN09J8k0fTgYHmbRu5eomz8Iw_YDJjyhswUFnOB9xw2U5P54GX_jg",
+      "view_skin":"https://lh3.googleusercontent.com/N_IityGdmQ4eYD0r-rhmcCIKKmuBKtSB1OClwSqbMpibbqePFE86fVlvaCkxLB247GIRRCk9fP8KgMUQka_AqQ"
+    },
+    {
+      "id":31,
+      "name_skin":"Horror 2",
+      "skin_url":"https://lh3.googleusercontent.com/OM6hvT2wW55bxKEmr2TQHZp8_b456HTEDp6EBQGfQuzHaeLMEzI4gKGpxvHr9fqJhUS6SfZLYpdYqZpnZxwwBA",
+      "view_skin":"https://lh3.googleusercontent.com/v9dGOPHOzdDlEYQ2MeXvoShMI3cI7vsBb0ukctmG_lgDMYwv5kUDdLmrLAl5gYH4_cssUPMu63zjeV5as_2Q5cM"
+    },
+    {
+      "id":32,
+      "name_skin":"Killer Fleegle",
+      "skin_url":"https://lh3.googleusercontent.com/1_ScTLw-P8-oo21GtBh4Tq0Mz5pGG3zzTX7giJaDuoAbRj01Knj2Jr5vdhRfAzpOQW2q-NjPj0EW15e4yxuZdzJEosyx7HIzzzQ",
+      "view_skin":"https://lh3.googleusercontent.com/UMS0bXIp8chpG-naAdjV9faMpiwXn8nROQ0Oj7R9Fak5PShT_fGLmUU56c5h_uk_FXRehhcmegfHbMnG6EeKDbbDwqXGg65EGQ"
+    },
+    {
+      "id":33,
+      "name_skin":"Sem horror girl",
+      "skin_url":"https://lh3.googleusercontent.com/yy7NTH9XUso74TdhDeg5J56vRTlcJkSMJiCQ6ck7taF7_cReUjlLRbXljTjFvk4DcdyaLvdpX3U32a_BOsgZ",
+      "view_skin":"https://lh3.googleusercontent.com/xXoo_A-5EpTmmebK6By8GGa3Lw9e-qmuMMbLQXW-KGIrE3NDa3NKSsVDWXd-WSwe0hLWAhCsvJQWEI058oWKaKY"
+    },
+    {
+      "id":34,
+      "name_skin":"MARK HORROR",
+      "skin_url":"https://lh3.googleusercontent.com/sdsVD5q42NRPCdH_Mon4Nwe3SlXOhNzuCdsiQ8rtlcw2zauebf82ErQ_s1g6Wx65IAIIBlHCVNixnERVjaEQdQ",
+      "view_skin":"https://lh3.googleusercontent.com/WVmwFY-pnYmAVHF3yT8oAD_4IMQu5BSPSyh6_zFNDp7hGs_iDp56VVBL231kGk_Vs1qlMU_bET1DhQG3ocy7-w"
+    },
+    {
+      "id":35,
+      "name_skin":"Horror Butcher",
+      "skin_url":"https://lh3.googleusercontent.com/aZAai09Lq7DdwkQg1tdPqsxTujRbAgE8Y1VO8M8zFC0Rc85YUp4j6fExJPo_yrwgLuxR4_Mi1YBYrX1MYJymN8k",
+      "view_skin":"https://lh3.googleusercontent.com/geBcDT8IvcgL5hKMQ9WpU2F7beyGf7QjAsKesZUjGRjCkL7kwLabrJ6Xl1BZoYAMgNNukFmT9u0VEWJaQw3R9g"
+    },
+    {
+      "id":36,
+      "name_skin":"Horror ink Sans",
+      "skin_url":"https://lh3.googleusercontent.com/G7n5t66SeyL8yO31j0I3kJpEo_Rqgck57oogQruf7NLhiPmgjKcyDqlXOGFsBSbKumAqD9EQTJPN4oXBr_s48w",
+      "view_skin":"https://lh3.googleusercontent.com/tzGyEmsic0NgslT4l2jzFqGBwG7QluhTCeVBzPmpGIk2HmrjfA068tFoxSXGTSBRmXjFJUfeqPooh4qg4PiK"
+    },
+    {
+      "id":37,
+      "name_skin":"smile horror",
+      "skin_url":"https://lh3.googleusercontent.com/cBatP74KA40Amv9jyracaNP5xvpBXsN7-wFjVval93sAdixDuXIlvQi83YPxy6IyK0x8O5lqibMolgRuFHdogq6_wSRssUBajyQ",
+      "view_skin":"https://lh3.googleusercontent.com/issRSO5m3znHfqpNdUOh0PQOoDdvdTd8u4MykM7peiAhvaHQbyBddyT-cY6xQp22IFQXOTEWB-X4E6526R_pZOw6sBbObstqSzE"
+    },
+    {
+      "id":38,
+      "name_skin":"horror sans",
+      "skin_url":"https://lh3.googleusercontent.com/FFRcW7aW9FMLDUSgdH5zeuW1ZX568V-T9rveCFozevTQ8pDfzIi599IepWyPhdPa7BZPifBkmoB9GOurKF99RVc",
+      "view_skin":"https://lh3.googleusercontent.com/afqC9ivIdbUt5emB6UNGuIWirwzmmTu2yC-XVK7Br36qljRJvynsDZo7mkn3MXLVeSDA9Y6dSHHk6ETCAHxaLOQuSHTwFGeXczY"
+    },
+    {
+      "id":39,
+      "name_skin":"horror creature",
+      "skin_url":"https://lh3.googleusercontent.com/dA67wpWRGAzoNJJLlazA6D_9Kva6MRi3xNEjIIcHPSkAFjMakMbBB0o3TIEoNQw9xvqEzhYJXbYmGJu6fOGtkDo",
+      "view_skin":"https://lh3.googleusercontent.com/mETkX5bxBalA5yYXLSGmFhVimsilIUER6GD0hryfpSaEAPrBNbaGVE3eryTAXyFK2A6QE2KVimfx9lXMjDDy"
+    },
+    {
+      "id":40,
+      "name_skin":"Horror Steve",
+      "skin_url":"https://lh3.googleusercontent.com/b3bNvVRqQr8jFNagdCYE_1uPbMg_0dHTnw-FbTFkT1yFDUkENDvXaXehom8HSHqSQ6P68Cwmw0L8gZFnFDIo",
+      "view_skin":"https://lh3.googleusercontent.com/ef5AJ45JXGbBqDh-pOZLwing95TdUMv01LOKmlEy-PFrzBiXQ4lC7nPgS638axTwGf72-HGJMmLV6w0_46b85w"
+    },
+    {
+      "id":41,
+      "name_skin":"Scary Creepy Spooky",
+      "skin_url":"https://lh3.googleusercontent.com/QlQktT9MYaA-krwD5RL7UNY1tjo6wUrD0DMAFjNQsaeLCTqT4EGwWy0RrxXfHhgODAGOj5FvNr7UVF-JtLoNWus",
+      "view_skin":"https://lh3.googleusercontent.com/x4LUiP2X59RE2E0cT5Oc18goh-26yZMEwewS8fH_i8pzb7KPJKxqwJMk1K7GdNSLqsfw5sYt9BpbpIQPweRVQS0"
+    },
+    {
+      "id":42,
+      "name_skin":"rajagaming",
+      "skin_url":"https://lh3.googleusercontent.com/2Xh1EuA5G1c7MUmUxteJRT5xDGoi3VEKpf3VW_goDM0SxvBVz83N21YWb2X_Wq-VlpNV7uuZkZpYTunXO7JGhCWiF0VUK1fxnn0",
+      "view_skin":"https://lh3.googleusercontent.com/s2h3Dpwhj56-MqYj7XKx0v_Qeio6wgjEbgsw3RB_C7QCTcvjpJLpvJKBSqpLqfG1Y0ZOEg5SeX1RMzsweUct44tQj8NBw79fbw5n"
+    },
+    {
+      "id":43,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/HSC_nLlIJRbMAQam6Xvxmw34CFpAJ2oUxI1rNI5ggjppVyrv4fCYDWdGqwGgoxrrQRgfPtwmdGLnmdYSf8dOPicKXwRK5Ve5vK4",
+      "view_skin":"https://lh3.googleusercontent.com/quF5AYNFrPJMdsl0n1ORMMML7X7QUV3jHgANZYly3X_qWWQEkDQ2n-TrSrXzNS0rqKqFvioP2zQVcuNGoO8cu05H088TDXjYnrE"
+    },
+    {
+      "id":44,
+      "name_skin":"Evil Superman",
+      "skin_url":"https://lh3.googleusercontent.com/xoUymQi26YKBYJlDoR5WZ5zrkAMcWUEdvAfKGgNLWLusKMc5w4oVy_Z8Z38I3Mdgb7JKEY44OEUY412ilBH-TqsuJ6yeHxffu6Rc",
+      "view_skin":"https://lh3.googleusercontent.com/hkiaUDf6MC25uCIAjXlce2K1lAl9EcCO_dOO_G4MO8IzOBcAk_E-83ipU4oNcFUros2Kaz81WttaX_S2ldLthYYW19CbLOsFkA"
+    },
+    {
+      "id":45,
+      "name_skin":"HORROR",
+      "skin_url":"https://lh3.googleusercontent.com/JyrbT5rXrvlI931rmhg2z938Xs2ViapDsaO9uNyKFyvfDFigONndk9IH0YKt2kphBwKr9SqmZgfBHyZ3tKxfQu8pQ-PuAafLGgg",
+      "view_skin":"https://lh3.googleusercontent.com/zG4_aoD-09G2V2JKMbgBjRGJqIl1014bBiDpyAnIHfI0Op5l2OyKdNCTsrf0rvJM1BB0y681858elDE1U8TdpC3-nz-RrZ7lnQ"
+    },
+    {
+      "id":46,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/RWJCF8C9NcWTnxkZ-zM8WyBTr6G28sKO1X-ISp2yGXFX1JEV5Z4t81JlFhmQfTzZ0m6BCKRdvZ4IfNr-BA9M2FHZWDTsMs73C-pD",
+      "view_skin":"https://lh3.googleusercontent.com/5Hs_hJjrCca7McvzzashgwlOUepVkMUmiNdzYsgbZYigm47-NUexwSumSlpwoD01nt8N0vgh3-R4MnKV-1Ahrgy3vUS6vHfp_Hw"
+    },
+    {
+      "id":47,
+      "name_skin":"dream horror",
+      "skin_url":"https://lh3.googleusercontent.com/8OdXJP-CVe_nx7PJTARuwpQgTOr8zgotgFbz-nue_FGhbDCNsZa7a4iG-jlrI-ViSFgdgwrWtz_vmnD1x59UAh9na8FajB4_WQ",
+      "view_skin":"https://lh3.googleusercontent.com/iJUoxa7DSGxacpdn4gzXXPIEXMOEqIe1_Em4K_P-o8-9vHD0hJHnguZMgsrQcXlJaTGMORrNjAdLIO_-jt3wtFg_8LFgEMNkbXU"
+    },
+    {
+      "id":48,
+      "name_skin":"horror",
+      "skin_url":"https://lh3.googleusercontent.com/GfHwGgPa3SpH3QRdw9gSVlQMD6CiShgx3zEPmCWHlo-q3d2QZNTib1K11HeW76qfrgo3n6QrZG9P1KUB8Ipm-9ie6IX1KqzTf2ZS",
+      "view_skin":"https://lh3.googleusercontent.com/JQ1Z2nxkQ_MX8ensUiyFTAsdVsijKlzcIc_l0CiUYUichddEONRgChZKNpFf20w-9NQeNojXRm_aZZ_QtqwpqlyhFTwfOftT4SI"
+    },
+    {
+      "id":49,
+      "name_skin":"Horror",
+      "skin_url":"https://lh3.googleusercontent.com/RCX4VEZVhHM2jXYgiun5vElBF3tUXRh47PTKVRRPiZZDgcCKgknNBrXLDyTKsgIddupyiptMV1-7cdaTCykuYX-EIqafACQe7vI",
+      "view_skin":"https://lh3.googleusercontent.com/350rXk3c5afJZk4ayXZHDLeuL2bB5I6OZ2fH78jeWtCijw77DfKJo5s4qtO2UVhnwiwnp2bv-LHUw5upUnMppBQsPmkTiaZ1okw"
+    },
+    {
+      "id":50,
+      "name_skin":"horror",
+      "skin_url":"https://lh3.googleusercontent.com/61FyDa6T-62UAVIzGIthg_RvOd2gqu0PvlCXe2DW0g9nRrGv0F2D0ge_KJFqRjfAXXbIJsIsCTptxcldYkjjYetuL9MH9uhDWdNT",
+      "view_skin":"https://lh3.googleusercontent.com/77rEpdA1PkchmXoyxIn_11rjjxsY3GiBF3_QWrm1WVYzRwvmqguVF36SHZu7iOSdC50oinANtPhKsvUbH6jhY2E2L4vpvQJ3MA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Laser Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":2,
+      "name_add":"Number Blocks",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":3,
+      "name_add":"The Imposter",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":4,
+      "name_add":"Uncrafting Table",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":5,
+      "name_add":"Furniture",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":6,
+      "name_add":"Guns",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dynamite Projectile",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+    {
+      "id":8,
+      "name_add":"Actual Guns",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Bedrock Auto Chicken",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":2,
+      "name_map":"Among Us Map",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":3,
+      "name_map":"Cubical's Tower",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":4,
+      "name_map":"Achievement World",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":5,
+      "name_map":"HardCoreLine",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+    {
+      "id":6,
+      "name_map":"Hello Neighbor",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
+      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    }
+  ]
+}
